@@ -1,0 +1,1855 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "Thanks to:\n- Nikke db (https://nikke-db.github.io) for providing the live2d models and tools to extract them\n- [TSE]SHADOW for creating to original \"Nikke Visualiser\" which this is based off\n\nNote:\nThis is setup is for all model files which can be located in the Nikke DB Github. This however can not be uploaded as this would go over the file size limit for web wallpapers.\n\nIf you wish to grab the remaining model files, follow this link: https://github.com/Nikke-db/Nikke-db.github.io\n\n1. Download a zip folder of the contents\n2. Extract the file\n3. The model folders can be found in the \"l2d\" folder of the extracted folder\n4. Place the model folders into the \"image\" folder in Wallpaper engine project file. Example: D:\\SteamLibrary\\steamapps\\workshop\\content\\431960\\2894930545\\image",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"anchor" : 
+			{
+				"index" : 11,
+				"options" : 
+				[
+					{
+						"label" : "Top Left",
+						"value" : 1
+					},
+					{
+						"label" : "Top Center",
+						"value" : 2
+					},
+					{
+						"label" : "Top Right",
+						"value" : 3
+					},
+					{
+						"label" : "Center Left",
+						"value" : 4
+					},
+					{
+						"label" : "Center Center",
+						"value" : 5
+					},
+					{
+						"label" : "Center Right",
+						"value" : 6
+					},
+					{
+						"label" : "Bottom Left",
+						"value" : 7
+					},
+					{
+						"label" : "Bottom Center",
+						"value" : 8
+					},
+					{
+						"label" : "Bottom Right",
+						"value" : 9
+					},
+					{
+						"label" : "Custom",
+						"value" : 10
+					}
+				],
+				"order" : 111,
+				"text" : "Anchor Image",
+				"type" : "combo",
+				"value" : 1
+			},
+			"character" : 
+			{
+				"index" : 0,
+				"options" : 
+				[
+					{
+						"label" : "Rapi",
+						"value" : "c010"
+					},
+					{
+						"label" : "Rapi_old",
+						"value" : "c010_01"
+					},
+					{
+						"label" : "Rapi White Promise",
+						"value" : "c010_02"
+					},
+					{
+						"label" : "Rapi Classic Vacation",
+						"value" : "c010_03"
+					},
+					{
+						"label" : "Neon",
+						"value" : "c011"
+					},
+					{
+						"label" : "Neon Bling Bullet",
+						"value" : "c011_01"
+					},
+					{
+						"label" : "Anis",
+						"value" : "c012"
+					},
+					{
+						"label" : "Marian",
+						"value" : "c013"
+					},
+					{
+						"label" : "Neon: Blue Ocean",
+						"value" : "c014"
+					},
+					{
+						"label" : "Anis: Sparkling Summer",
+						"value" : "c015"
+					},
+					{
+						"label" : "Rapi: Red Hood",
+						"value" : "c016"
+					},
+					{
+						"label" : "Delta",
+						"value" : "c020"
+					},
+					{
+						"label" : "Signal",
+						"value" : "c022"
+					},
+					{
+						"label" : "Signal Dramatic Chocolate",
+						"value" : "c022_01"
+					},
+					{
+						"label" : "Poli",
+						"value" : "c030"
+					},
+					{
+						"label" : "Poli Sweet Holic",
+						"value" : "c030_01"
+					},
+					{
+						"label" : "Poli Cheer Up Police",
+						"value" : "c030_02"
+					},
+					{
+						"label" : "Miranda",
+						"value" : "c032"
+					},
+					{
+						"label" : "Miranda Thief of Justice",
+						"value" : "c032_01"
+					},
+					{
+						"label" : "Quiry",
+						"value" : "c033"
+					},
+					{
+						"label" : "D",
+						"value" : "c040"
+					},
+					{
+						"label" : "K",
+						"value" : "c041"
+					},
+					{
+						"label" : "D: Killer Wife",
+						"value" : "c043"
+					},
+					{
+						"label" : "D: Killer Wife Secret Party Cleaner",
+						"value" : "c043_01"
+					},
+					{
+						"label" : "Belorta",
+						"value" : "c060"
+					},
+					{
+						"label" : "Mica",
+						"value" : "c061"
+					},
+					{
+						"label" : "Mica: Snow Buddy",
+						"value" : "c062"
+					},
+					{
+						"label" : "Brid",
+						"value" : "c070"
+					},
+					{
+						"label" : "Brid Model Worker",
+						"value" : "c070_01"
+					},
+					{
+						"label" : "Brid Black Moon",
+						"value" : "c070_02"
+					},
+					{
+						"label" : "Soline",
+						"value" : "c071"
+					},
+					{
+						"label" : "Diesel",
+						"value" : "c072"
+					},
+					{
+						"label" : "Diesel Black Sunday",
+						"value" : "c072_01"
+					},
+					{
+						"label" : "Diesel Strawberry Flower",
+						"value" : "c072_02"
+					},
+					{
+						"label" : "Diesel Midnight Strawberry",
+						"value" : "c072_04"
+					},
+					{
+						"label" : "Centi",
+						"value" : "c080"
+					},
+					{
+						"label" : "Centi Supreme Holiday",
+						"value" : "c080_01"
+					},
+					{
+						"label" : "Liter",
+						"value" : "c082"
+					},
+					{
+						"label" : "Liter Guardfish",
+						"value" : "c082_01"
+					},
+					{
+						"label" : "Liter Cute Sunflower",
+						"value" : "c082_02"
+					},
+					{
+						"label" : "Emma",
+						"value" : "c090"
+					},
+					{
+						"label" : "Emma Color Me Red",
+						"value" : "c090_01"
+					},
+					{
+						"label" : "Emma Office Therapy",
+						"value" : "c090_02"
+					},
+					{
+						"label" : "Vesti",
+						"value" : "c091"
+					},
+					{
+						"label" : "Vesti Ark Mage",
+						"value" : "c091_01"
+					},
+					{
+						"label" : "Eunhwa",
+						"value" : "c092"
+					},
+					{
+						"label" : "Emma",
+						"value" : "c093"
+					},
+					{
+						"label" : "Vesti",
+						"value" : "c094"
+					},
+					{
+						"label" : "Eunhwa",
+						"value" : "c095"
+					},
+					{
+						"label" : "Laplace",
+						"value" : "c100"
+					},
+					{
+						"label" : "Drake",
+						"value" : "c101"
+					},
+					{
+						"label" : "Drake Villain Racer",
+						"value" : "c101_01"
+					},
+					{
+						"label" : "Drake Maid For Villain",
+						"value" : "c101_02"
+					},
+					{
+						"label" : "Maxwell",
+						"value" : "c102"
+					},
+					{
+						"label" : "Maxwell Mechanic White",
+						"value" : "c102_01"
+					},
+					{
+						"label" : "Crow",
+						"value" : "c110"
+					},
+					{
+						"label" : "Jackal",
+						"value" : "c111"
+					},
+					{
+						"label" : "Viper",
+						"value" : "c112"
+					},
+					{
+						"label" : "Viper Toxic Rabbit",
+						"value" : "c112_01"
+					},
+					{
+						"label" : "Viper Shine of Love",
+						"value" : "c112_02"
+					},
+					{
+						"label" : "N102",
+						"value" : "c120"
+					},
+					{
+						"label" : "Anne: Miracle Fairy",
+						"value" : "c121"
+					},
+					{
+						"label" : "Mary",
+						"value" : "c130"
+					},
+					{
+						"label" : "Mary Medical Rabbit",
+						"value" : "c130_01"
+					},
+					{
+						"label" : "Pepper",
+						"value" : "c131"
+					},
+					{
+						"label" : "Pepper Ocean Vitamin",
+						"value" : "c131_01"
+					},
+					{
+						"label" : "Mary: Bay Goddess",
+						"value" : "c132"
+					},
+					{
+						"label" : "Sugar",
+						"value" : "c140"
+					},
+					{
+						"label" : "Sugar Hard-Boiled",
+						"value" : "c140_01"
+					},
+					{
+						"label" : "Sugar Wild Backyard",
+						"value" : "c140_02"
+					},
+					{
+						"label" : "Milk",
+						"value" : "c141"
+					},
+					{
+						"label" : "Milk Extreme Fighter",
+						"value" : "c141_01"
+					},
+					{
+						"label" : "Frima",
+						"value" : "c142"
+					},
+					{
+						"label" : "Frima Sea of Sloth",
+						"value" : "c142_01"
+					},
+					{
+						"label" : "Julia",
+						"value" : "c150"
+					},
+					{
+						"label" : "Julia Mild Nocturne",
+						"value" : "c150_01"
+					},
+					{
+						"label" : "Yuni",
+						"value" : "c160"
+					},
+					{
+						"label" : "Yuni Pretty In Pink",
+						"value" : "c160_01"
+					},
+					{
+						"label" : "Mihara",
+						"value" : "c161"
+					},
+					{
+						"label" : "Mihara",
+						"value" : "c162"
+					},
+					{
+						"label" : "Privaty",
+						"value" : "c170"
+					},
+					{
+						"label" : "Privaty Government Grunt",
+						"value" : "c170_01"
+					},
+					{
+						"label" : "Privaty Banquet Princess",
+						"value" : "c170_02"
+					},
+					{
+						"label" : "Privaty (CN)",
+						"value" : "c170_03"
+					},
+					{
+						"label" : "Yulha",
+						"value" : "c171"
+					},
+					{
+						"label" : "Admi",
+						"value" : "c172"
+					},
+					{
+						"label" : "Guillotine",
+						"value" : "c180"
+					},
+					{
+						"label" : "Guillotine Dark Tracer",
+						"value" : "c180_01"
+					},
+					{
+						"label" : "Maiden",
+						"value" : "c181"
+					},
+					{
+						"label" : "Guillotine Winter Slayer",
+						"value" : "c182"
+					},
+					{
+						"label" : "Maiden Ice Rose",
+						"value" : "c183"
+					},
+					{
+						"label" : "Maiden Covert Nurse",
+						"value" : "c181_01"
+					},
+					{
+						"label" : "Maiden Under the Sun",
+						"value" : "c181_02"
+					},
+					{
+						"label" : "Ludmilla",
+						"value" : "c190"
+					},
+					{
+						"label" : "Alice",
+						"value" : "c191"
+					},
+					{
+						"label" : "Alice Sweet Home",
+						"value" : "c191_01"
+					},
+					{
+						"label" : "Tove",
+						"value" : "c192"
+					},
+					{
+						"label" : "Tove Baseball Fan",
+						"value" : "c192_01"
+					},
+					{
+						"label" : "Neve",
+						"value" : "c193"
+					},
+					{
+						"label" : "Ludmilla: Winter Owner",
+						"value" : "c194"
+					},
+					{
+						"label" : "Alice: Wonderland Bunny",
+						"value" : "c195"
+					},
+					{
+						"label" : "Rupee",
+						"value" : "c200"
+					},
+					{
+						"label" : "Rupee Rabbit Deluxe",
+						"value" : "c200_01"
+					},
+					{
+						"label" : "Yan",
+						"value" : "c201"
+					},
+					{
+						"label" : "Yan Sunrise Market",
+						"value" : "c201_01"
+					},
+					{
+						"label" : "Dolla",
+						"value" : "c202"
+					},
+					{
+						"label" : "Dolla Dark Rose",
+						"value" : "c202_01"
+					},
+					{
+						"label" : "Rupee: Winter Shopper",
+						"value" : "c203"
+					},
+					{
+						"label" : "Exia",
+						"value" : "c210"
+					},
+					{
+						"label" : "Exia Joy to the Nerds",
+						"value" : "c210_01"
+					},
+					{
+						"label" : "Exia Gamer",
+						"value" : "c210_02"
+					},
+					{
+						"label" : "Novel",
+						"value" : "c212"
+					},
+					{
+						"label" : "Novel Penguin Holmes",
+						"value" : "c212_01"
+					},
+					{
+						"label" : "Novel Detective Nurse",
+						"value" : "c212_02"
+					},
+					{
+						"label" : "Snow White",
+						"value" : "c220"
+					},
+					{
+						"label" : "Snow White White Knight",
+						"value" : "c220_01"
+					},
+					{
+						"label" : "Rapunzel",
+						"value" : "c221"
+					},
+					{
+						"label" : "Scarlet",
+						"value" : "c222"
+					},
+					{
+						"label" : "Snow White: Innocent Days",
+						"value" : "c224"
+					},
+					{
+						"label" : "Scarlet: Black Shadow",
+						"value" : "c225"
+					},
+					{
+						"label" : "Scarlet: Black Shadow Longing Flower",
+						"value" : "c225_01"
+					},
+					{
+						"label" : "Rapunzel: Pure Grace",
+						"value" : "c226"
+					},
+					{
+						"label" : "Harran",
+						"value" : "c230"
+					},
+					{
+						"label" : "Harran Banquet Witch",
+						"value" : "c230_01"
+					},
+					{
+						"label" : "Isabel",
+						"value" : "c231"
+					},
+					{
+						"label" : "Isabel Honeymoon Party",
+						"value" : "c231_01"
+					},
+					{
+						"label" : "Noah",
+						"value" : "c232"
+					},
+					{
+						"label" : "Dorothy",
+						"value" : "c233"
+					},
+					{
+						"label" : "Dorothy Nostalgia",
+						"value" : "c233_01"
+					},
+					{
+						"label" : "Rumani",
+						"value" : "c240"
+					},
+					{
+						"label" : "Epinel",
+						"value" : "c241"
+					},
+					{
+						"label" : "Folkwang",
+						"value" : "c242"
+					},
+					{
+						"label" : "Folkwang Moist Bunny",
+						"value" : "c242_01"
+					},
+					{
+						"label" : "Mass Produced Red",
+						"value" : "c250"
+					},
+					{
+						"label" : "Mass Produced Blue",
+						"value" : "c251"
+					},
+					{
+						"label" : "Mass Produced Orange",
+						"value" : "c252"
+					},
+					{
+						"label" : "Mass Produced Green",
+						"value" : "c253"
+					},
+					{
+						"label" : "Mass Produced Purple",
+						"value" : "c254"
+					},
+					{
+						"label" : "Mass Produced White",
+						"value" : "c255"
+					},
+					{
+						"label" : "Modernia",
+						"value" : "c260"
+					},
+					{
+						"label" : "Modernia First Affection",
+						"value" : "c260_01"
+					},
+					{
+						"label" : "Modernia Second Affection",
+						"value" : "c260_02"
+					},
+					{
+						"label" : "Nihilister",
+						"value" : "c261"
+					},
+					{
+						"label" : "Liberalio",
+						"value" : "c262"
+					},
+					{
+						"label" : "Indivilia",
+						"value" : "c263"
+					},
+					{
+						"label" : "Blanc",
+						"value" : "c270"
+					},
+					{
+						"label" : "Blanc White Rabbit",
+						"value" : "c270_01"
+					},
+					{
+						"label" : "Noir",
+						"value" : "c271"
+					},
+					{
+						"label" : "Noir Black Rabbit",
+						"value" : "c271_01"
+					},
+					{
+						"label" : "Rouge",
+						"value" : "c272"
+					},
+					{
+						"label" : "Rosanna",
+						"value" : "c280"
+					},
+					{
+						"label" : "Rosanna Ms. Dangerous",
+						"value" : "c280_01"
+					},
+					{
+						"label" : "Moran",
+						"value" : "c281"
+					},
+					{
+						"label" : "Sakura",
+						"value" : "c282"
+					},
+					{
+						"label" : "Sakura Midnight Stealth",
+						"value" : "c282_01"
+					},
+					{
+						"label" : "Rosanna: Chic Ocean",
+						"value" : "c283"
+					},
+					{
+						"label" : "Sakura: Bloom in Summer",
+						"value" : "c284"
+					},
+					{
+						"label" : "Mana",
+						"value" : "c290"
+					},
+					{
+						"label" : "Ether",
+						"value" : "c291"
+					},
+					{
+						"label" : "Soldier EG",
+						"value" : "c300"
+					},
+					{
+						"label" : "Soldier FA",
+						"value" : "c301"
+					},
+					{
+						"label" : "Product 08",
+						"value" : "c302"
+					},
+					{
+						"label" : "Product 12",
+						"value" : "c303"
+					},
+					{
+						"label" : "iDoll Flower",
+						"value" : "c304"
+					},
+					{
+						"label" : "iDoll Ocean",
+						"value" : "c305"
+					},
+					{
+						"label" : "Soldier OW",
+						"value" : "c306"
+					},
+					{
+						"label" : "Product 23",
+						"value" : "c307"
+					},
+					{
+						"label" : "iDoll Sun",
+						"value" : "c308"
+					},
+					{
+						"label" : "Ade",
+						"value" : "c310"
+					},
+					{
+						"label" : "Ade Maid In Spring",
+						"value" : "c310_01"
+					},
+					{
+						"label" : "Cocoa",
+						"value" : "c311"
+					},
+					{
+						"label" : "Soda",
+						"value" : "c312"
+					},
+					{
+						"label" : "Privaty: Unkind Maid",
+						"value" : "c313"
+					},
+					{
+						"label" : "Soda: Twinkling Bunny",
+						"value" : "c314"
+					},
+					{
+						"label" : "Marciana",
+						"value" : "c321"
+					},
+					{
+						"label" : "Marciana School Days",
+						"value" : "c321_01"
+					},
+					{
+						"label" : "Crown",
+						"value" : "c330"
+					},
+					{
+						"label" : "Crown Naked King",
+						"value" : "c330_01"
+					},
+					{
+						"label" : "Chime",
+						"value" : "c331"
+					},
+					{
+						"label" : "Mast",
+						"value" : "c350"
+					},
+					{
+						"label" : "Mast A Pirate's Heart",
+						"value" : "c350_01"
+					},
+					{
+						"label" : "Mast the Diver",
+						"value" : "c350_02"
+					},
+					{
+						"label" : "Mast_old",
+						"value" : "c350_old"
+					},
+					{
+						"label" : "Anchor",
+						"value" : "c351"
+					},
+					{
+						"label" : "Anchor the Diver",
+						"value" : "c351_01"
+					},
+					{
+						"label" : "Helm",
+						"value" : "c352"
+					},
+					{
+						"label" : "Helm Chandelier",
+						"value" : "c352_01"
+					},
+					{
+						"label" : "Helm Post-Shower Moment",
+						"value" : "c352_02"
+					},
+					{
+						"label" : "Helm: Aquamarine",
+						"value" : "c353"
+					},
+					{
+						"label" : "Mast: Romantic Maid",
+						"value" : "c354"
+					},
+					{
+						"label" : "Anchor: Innocent Maid",
+						"value" : "c355"
+					},
+					{
+						"label" : "T.A.L.O.S (Kilo)",
+						"value" : "c361"
+					},
+					{
+						"label" : "Nero",
+						"value" : "c380"
+					},
+					{
+						"label" : "Biscuit",
+						"value" : "c381"
+					},
+					{
+						"label" : "Biscuit Spring Puppy",
+						"value" : "c381_01"
+					},
+					{
+						"label" : "Leona",
+						"value" : "c382"
+					},
+					{
+						"label" : "Leona Zoo Keeper",
+						"value" : "c382_01"
+					},
+					{
+						"label" : "Zwei",
+						"value" : "c390"
+					},
+					{
+						"label" : "Zwei First Festa",
+						"value" : "c390_01"
+					},
+					{
+						"label" : "Ein",
+						"value" : "c391"
+					},
+					{
+						"label" : "Ein Handmade Festa",
+						"value" : "c391_01"
+					},
+					{
+						"label" : "Rei",
+						"value" : "c392"
+					},
+					{
+						"label" : "Guilty",
+						"value" : "c400"
+					},
+					{
+						"label" : "Guilty Wave of Disbelief",
+						"value" : "c400_01"
+					},
+					{
+						"label" : "Sin",
+						"value" : "c401"
+					},
+					{
+						"label" : "Sin Backstreet Dream",
+						"value" : "c401_01"
+					},
+					{
+						"label" : "Quency",
+						"value" : "c402"
+					},
+					{
+						"label" : "Quency Escape Queen",
+						"value" : "c403"
+					},
+					{
+						"label" : "Flora",
+						"value" : "c411"
+					},
+					{
+						"label" : "Trina",
+						"value" : "c412"
+					},
+					{
+						"label" : "Noise",
+						"value" : "c430"
+					},
+					{
+						"label" : "Noise Cherry Blossom Stage",
+						"value" : "c430_01"
+					},
+					{
+						"label" : "Noise Classic Diva",
+						"value" : "c430_02"
+					},
+					{
+						"label" : "Volume",
+						"value" : "c431"
+					},
+					{
+						"label" : "Volume Beat the Gun",
+						"value" : "c431_01"
+					},
+					{
+						"label" : "Aria",
+						"value" : "c432"
+					},
+					{
+						"label" : "Eyeri",
+						"value" : "c440"
+					},
+					{
+						"label" : "Avista",
+						"value" : "c441"
+					},
+					{
+						"label" : "Naga",
+						"value" : "c450"
+					},
+					{
+						"label" : "Naga Elegant Date",
+						"value" : "c450_01"
+					},
+					{
+						"label" : "Naga Last Girlhood",
+						"value" : "c450_02"
+					},
+					{
+						"label" : "Tia",
+						"value" : "c451"
+					},
+					{
+						"label" : "Tia Lovely Date",
+						"value" : "c451_01"
+					},
+					{
+						"label" : "Tia Sweet Chef",
+						"value" : "c451_02"
+					},
+					{
+						"label" : "Red Hood",
+						"value" : "c470"
+					},
+					{
+						"label" : "Red Hood Nonsense Red",
+						"value" : "c470_01"
+					},
+					{
+						"label" : "Liveryn",
+						"value" : "c480"
+					},
+					{
+						"label" : "Fragile",
+						"value" : "c481"
+					},
+					{
+						"label" : "Hammering",
+						"value" : "c490"
+					},
+					{
+						"label" : "Drilley",
+						"value" : "c491"
+					},
+					{
+						"label" : "Elegg",
+						"value" : "c500"
+					},
+					{
+						"label" : "Trony",
+						"value" : "c501"
+					},
+					{
+						"label" : "Trony Sweet Step",
+						"value" : "c501_01"
+					},
+					{
+						"label" : "Grave",
+						"value" : "c510"
+					},
+					{
+						"label" : "Anachiro | Cinderella",
+						"value" : "c511"
+					},
+					{
+						"label" : "Anachiro | Cinderella Glass Princess",
+						"value" : "c511_01"
+					},
+					{
+						"label" : "Little Mermaid",
+						"value" : "c513"
+					},
+					{
+						"label" : "Grave the Great (GraGre)",
+						"value" : "c514"
+					},
+					{
+						"label" : "Bready",
+						"value" : "c520"
+					},
+					{
+						"label" : "Crust",
+						"value" : "c521"
+					},
+					{
+						"label" : "Bay",
+						"value" : "c550"
+					},
+					{
+						"label" : "Clay",
+						"value" : "c551"
+					},
+					{
+						"label" : "Behemoth",
+						"value" : "c560"
+					},
+					{
+						"label" : "Leviathan",
+						"value" : "c562"
+					},
+					{
+						"label" : "Black Ark Ranger",
+						"value" : "c570"
+					},
+					{
+						"label" : "Phantom",
+						"value" : "c580"
+					},
+					{
+						"label" : "Makima",
+						"value" : "c800"
+					},
+					{
+						"label" : "Makima Coat Off",
+						"value" : "c800_01"
+					},
+					{
+						"label" : "Power",
+						"value" : "c801"
+					},
+					{
+						"label" : "Himeno",
+						"value" : "c802"
+					},
+					{
+						"label" : "Denji",
+						"value" : "c803"
+					},
+					{
+						"label" : "Denji Chainsaw Man",
+						"value" : "c803_01"
+					},
+					{
+						"label" : "Aki Hayakawa",
+						"value" : "c804"
+					},
+					{
+						"label" : "2B",
+						"value" : "c810"
+					},
+					{
+						"label" : "2B Metamorphic Damage",
+						"value" : "c810_01"
+					},
+					{
+						"label" : "2B YoRHa Uniform 1",
+						"value" : "c810_02"
+					},
+					{
+						"label" : "A2",
+						"value" : "c811"
+					},
+					{
+						"label" : "A2 Metamorphic Damage",
+						"value" : "c811_01"
+					},
+					{
+						"label" : "A2 YoRHa Uniform Prototype",
+						"value" : "c811_02"
+					},
+					{
+						"label" : "Pascal",
+						"value" : "c812"
+					},
+					{
+						"label" : "9S",
+						"value" : "c813"
+					},
+					{
+						"label" : "Rem",
+						"value" : "c820"
+					},
+					{
+						"label" : "Rem Handy Maid",
+						"value" : "c820_01"
+					},
+					{
+						"label" : "Rem Pure Blossom",
+						"value" : "c820_02"
+					},
+					{
+						"label" : "Emilia",
+						"value" : "c821"
+					},
+					{
+						"label" : "Emilia Clumsy Maid",
+						"value" : "c821_01"
+					},
+					{
+						"label" : "Emilia Spring Breeze",
+						"value" : "c821_02"
+					},
+					{
+						"label" : "Ram",
+						"value" : "c822"
+					},
+					{
+						"label" : "Asuka Shikinami",
+						"value" : "c830"
+					},
+					{
+						"label" : "Asuka Shikinami Asuka's School Uniform",
+						"value" : "c830_01"
+					},
+					{
+						"label" : "Asuka Shikinami Cynical Street",
+						"value" : "c830_02"
+					},
+					{
+						"label" : "Asuka Shikinami Test Plugsuit",
+						"value" : "c830_03"
+					},
+					{
+						"label" : "Rei Ayanami",
+						"value" : "c831"
+					},
+					{
+						"label" : "Rei Ayanami Rei's School Uniform",
+						"value" : "c831_01"
+					},
+					{
+						"label" : "Rei Ayanami Peaceful Vacation",
+						"value" : "c831_02"
+					},
+					{
+						"label" : "Mari Makinami",
+						"value" : "c832"
+					},
+					{
+						"label" : "Mari Makinami Mari's School Uniform",
+						"value" : "c832_01"
+					},
+					{
+						"label" : "Mari Makinami Leisure Travel",
+						"value" : "c832_02"
+					},
+					{
+						"label" : "Mari Makinami Final Battle",
+						"value" : "c832_03"
+					},
+					{
+						"label" : "Mari Makinami Mystery Muse",
+						"value" : "c832_04"
+					},
+					{
+						"label" : "Misato Katsuragi",
+						"value" : "c833"
+					},
+					{
+						"label" : "Rei Ayanami ",
+						"value" : "c834"
+					},
+					{
+						"label" : "Rei Ayanami Miss Lookalike from Village-3",
+						"value" : "c834_01"
+					},
+					{
+						"label" : "Rei Ayanami Soul Connect",
+						"value" : "c834_02"
+					},
+					{
+						"label" : "Asuka Shikinami WILLE",
+						"value" : "c835"
+					},
+					{
+						"label" : "Asuka Shikinami Final Battle",
+						"value" : "c835_01"
+					},
+					{
+						"label" : "Asuka Shikinami Ocean's Lament",
+						"value" : "c835_02"
+					},
+					{
+						"label" : "Sakura Suzuhara",
+						"value" : "c836"
+					},
+					{
+						"label" : "Ingrid",
+						"value" : "c900"
+					},
+					{
+						"label" : "Syuen",
+						"value" : "c901"
+					},
+					{
+						"label" : "Mustang",
+						"value" : "c902"
+					},
+					{
+						"label" : "Mustang (CN)",
+						"value" : "c902_01"
+					},
+					{
+						"label" : "Andersen",
+						"value" : "c903"
+					},
+					{
+						"label" : "Andersen Soaked",
+						"value" : "c903_01"
+					},
+					{
+						"label" : "Enikk",
+						"value" : "c904"
+					},
+					{
+						"label" : "Rian",
+						"value" : "c905"
+					},
+					{
+						"label" : "Shifty",
+						"value" : "c907"
+					},
+					{
+						"label" : "Shifty_old",
+						"value" : "c907_01"
+					},
+					{
+						"label" : "Papillon",
+						"value" : "c908"
+					},
+					{
+						"label" : "Hologram",
+						"value" : "c910"
+					},
+					{
+						"label" : "Sweet Johnny",
+						"value" : "c910_01"
+					},
+					{
+						"label" : "Faceless Man",
+						"value" : "c911"
+					},
+					{
+						"label" : "Faceless Woman",
+						"value" : "c912"
+					},
+					{
+						"label" : "Burningum",
+						"value" : "c914"
+					},
+					{
+						"label" : "Raptillion",
+						"value" : "c915"
+					},
+					{
+						"label" : "Faceless NPC 1",
+						"value" : "c916"
+					},
+					{
+						"label" : "Faceless NPC 2",
+						"value" : "c917"
+					},
+					{
+						"label" : "Faceless NPC 3",
+						"value" : "c918"
+					},
+					{
+						"label" : "Faceless NPC 4",
+						"value" : "c919"
+					},
+					{
+						"label" : "Faceless NPC 5",
+						"value" : "c920"
+					},
+					{
+						"label" : "Faceless NPC 6",
+						"value" : "c921"
+					},
+					{
+						"label" : "Faceless NPC 7",
+						"value" : "c922"
+					},
+					{
+						"label" : "Faceless NPC 8",
+						"value" : "c923"
+					},
+					{
+						"label" : "Faceless NPC 9",
+						"value" : "c924"
+					},
+					{
+						"label" : "Johan",
+						"value" : "c925"
+					},
+					{
+						"label" : "Einkk",
+						"value" : "c928"
+					},
+					{
+						"label" : "Cecil",
+						"value" : "c929"
+					},
+					{
+						"label" : "Beatrice",
+						"value" : "c930"
+					},
+					{
+						"label" : "Collection Robot",
+						"value" : "c931"
+					},
+					{
+						"label" : "Bolt Junior",
+						"value" : "c932"
+					},
+					{
+						"label" : "Bolt",
+						"value" : "c933"
+					},
+					{
+						"label" : "Angelina",
+						"value" : "c934"
+					},
+					{
+						"label" : "Joseph",
+						"value" : "c935"
+					},
+					{
+						"label" : "Max",
+						"value" : "c936"
+					},
+					{
+						"label" : "Booboo",
+						"value" : "c937"
+					},
+					{
+						"label" : "Doban",
+						"value" : "c939"
+					},
+					{
+						"label" : "E.H.",
+						"value" : "c940"
+					},
+					{
+						"label" : "Pinne",
+						"value" : "c941"
+					},
+					{
+						"label" : "Commander (GODDESS)",
+						"value" : "c942"
+					},
+					{
+						"label" : "Liliweiss",
+						"value" : "c943"
+					},
+					{
+						"label" : "Katie",
+						"value" : "c945"
+					},
+					{
+						"label" : "Ruru",
+						"value" : "c946"
+					},
+					{
+						"label" : "Freesia",
+						"value" : "c960"
+					},
+					{
+						"label" : "Oswald",
+						"value" : "c961"
+					},
+					{
+						"label" : "Product 12: B-0006",
+						"value" : "c962"
+					},
+					{
+						"label" : "Product 12: C-1002",
+						"value" : "c963"
+					},
+					{
+						"label" : "Product 12: 6000-D",
+						"value" : "c964"
+					},
+					{
+						"label" : "Lumi",
+						"value" : "c970"
+					},
+					{
+						"label" : "Rose",
+						"value" : "c971"
+					},
+					{
+						"label" : "Jien",
+						"value" : "c973"
+					},
+					{
+						"label" : "Mass Produced Melee",
+						"value" : "c974"
+					},
+					{
+						"label" : "Mass Produced Melee 2",
+						"value" : "c974_01"
+					},
+					{
+						"label" : "Timi",
+						"value" : "c975"
+					},
+					{
+						"label" : "T.Rony",
+						"value" : "c976"
+					},
+					{
+						"label" : "Kilo",
+						"value" : "c977"
+					},
+					{
+						"label" : "Abe",
+						"value" : "c979"
+					},
+					{
+						"label" : "Hansel",
+						"value" : "c980"
+					},
+					{
+						"label" : "Gretel",
+						"value" : "c981"
+					},
+					{
+						"label" : "Red Shoes",
+						"value" : "c982"
+					},
+					{
+						"label" : "Nadia",
+						"value" : "c983"
+					},
+					{
+						"label" : "Yuni",
+						"value" : "c985"
+					},
+					{
+						"label" : "Chloe - Village Guardian",
+						"value" : "c988"
+					},
+					{
+						"label" : "Rapi",
+						"value" : "c989"
+					},
+					{
+						"label" : "Rapi",
+						"value" : "c990"
+					},
+					{
+						"label" : "D.E.E.P",
+						"value" : "c991"
+					},
+					{
+						"label" : "Rapi",
+						"value" : "c992"
+					},
+					{
+						"label" : "Mecha Shifty",
+						"value" : "c993"
+					},
+					{
+						"label" : "Rapi",
+						"value" : "c994"
+					},
+					{
+						"label" : "Leviathan",
+						"value" : "c996"
+					}
+				],
+				"order" : 100,
+				"text" : "Character",
+				"type" : "combo",
+				"value" : "c016"
+			},
+			"customimage" : 
+			{
+				"fileType" : "image",
+				"index" : 8,
+				"order" : 108,
+				"text" : "Image",
+				"type" : "file"
+			},
+			"expressionaim" : 
+			{
+				"condition" : "(stance.value == 'aim')",
+				"index" : 4,
+				"options" : 
+				[
+					{
+						"label" : "Idle",
+						"value" : "aim_idle"
+					},
+					{
+						"label" : "Fire",
+						"value" : "aim_fire"
+					},
+					{
+						"label" : "Hit",
+						"value" : "aim_hit"
+					},
+					{
+						"label" : "Aim X",
+						"value" : "aim_x"
+					},
+					{
+						"label" : "Aim Y",
+						"value" : "aim_y"
+					},
+					{
+						"label" : "To Aim",
+						"value" : "to_aim"
+					},
+					{
+						"label" : "To Cover",
+						"value" : "to_cover"
+					}
+				],
+				"order" : 104,
+				"text" : "Expression",
+				"type" : "combo",
+				"value" : "aim_idle"
+			},
+			"expressioncover" : 
+			{
+				"condition" : "(stance.value == 'cover')",
+				"index" : 3,
+				"options" : 
+				[
+					{
+						"label" : "Idle",
+						"value" : "cover_idle"
+					},
+					{
+						"label" : "Reload",
+						"value" : "cover_reload"
+					},
+					{
+						"label" : "Hit",
+						"value" : "cover_hit"
+					},
+					{
+						"label" : "Stun",
+						"value" : "cover_stun"
+					},
+					{
+						"label" : "To Aim",
+						"value" : "to_aim"
+					},
+					{
+						"label" : "To Cover",
+						"value" : "to_cover"
+					}
+				],
+				"order" : 103,
+				"text" : "Expression",
+				"type" : "combo",
+				"value" : "cover_idle"
+			},
+			"expressionfb" : 
+			{
+				"condition" : "(stance.value == 'fb')",
+				"index" : 2,
+				"options" : 
+				[
+					{
+						"label" : "Idle",
+						"value" : "idle"
+					},
+					{
+						"label" : "Idle 2",
+						"value" : "idle_02"
+					},
+					{
+						"label" : "Action",
+						"value" : "action"
+					},
+					{
+						"label" : "Angry",
+						"value" : "angry"
+					},
+					{
+						"label" : "Delight",
+						"value" : "delight"
+					},
+					{
+						"label" : "Shy",
+						"value" : "shy"
+					},
+					{
+						"label" : "Surprise",
+						"value" : "surprise"
+					},
+					{
+						"label" : "Think",
+						"value" : "think"
+					},
+					{
+						"label" : "Expression_0",
+						"value" : "expression_0"
+					},
+					{
+						"label" : "No",
+						"value" : "no"
+					},
+					{
+						"label" : "Pain",
+						"value" : "pain"
+					},
+					{
+						"label" : "Sad",
+						"value" : "sad"
+					},
+					{
+						"label" : "Smile",
+						"value" : "smile"
+					},
+					{
+						"label" : "Special",
+						"value" : "special"
+					},
+					{
+						"label" : "Good",
+						"value" : "good"
+					},
+					{
+						"label" : "Worry",
+						"value" : "worry"
+					},
+					{
+						"label" : "Void",
+						"value" : "void"
+					},
+					{
+						"label" : "Shy 2",
+						"value" : "shy2"
+					},
+					{
+						"label" : "Etc",
+						"value" : "etc"
+					},
+					{
+						"label" : "Expression_1",
+						"value" : "expression_1"
+					},
+					{
+						"label" : "Rage",
+						"value" : "rage"
+					},
+					{
+						"label" : "Idle alt",
+						"value" : "idle_alt"
+					},
+					{
+						"label" : "Expression_0 alt",
+						"value" : "expression_0_alt"
+					},
+					{
+						"label" : "Sleep 1",
+						"value" : "sleep_01"
+					},
+					{
+						"label" : "Sleep 2",
+						"value" : "sleep_02"
+					},
+					{
+						"label" : "Skillcut_1",
+						"value" : "skillcut_1"
+					}
+				],
+				"order" : 102,
+				"text" : "Expression",
+				"type" : "combo",
+				"value" : "idle"
+			},
+			"fit" : 
+			{
+				"index" : 10,
+				"options" : 
+				[
+					{
+						"label" : "Span",
+						"value" : 1
+					},
+					{
+						"label" : "Stretch",
+						"value" : 2
+					},
+					{
+						"label" : "Tile",
+						"value" : 3
+					},
+					{
+						"label" : "None",
+						"value" : 4
+					}
+				],
+				"order" : 110,
+				"text" : "Fit Image",
+				"type" : "combo",
+				"value" : 1
+			},
+			"flip" : 
+			{
+				"index" : 6,
+				"order" : 106,
+				"text" : "Flip",
+				"type" : "bool",
+				"value" : false
+			},
+			"loop" : 
+			{
+				"index" : 7,
+				"order" : 107,
+				"text" : "Loop",
+				"type" : "bool",
+				"value" : false
+			},
+			"posX" : 
+			{
+				"fraction" : false,
+				"index" : 12,
+				"max" : 100,
+				"min" : -100,
+				"order" : 112,
+				"text" : "X [00]",
+				"type" : "slider",
+				"value" : 0
+			},
+			"posY" : 
+			{
+				"fraction" : false,
+				"index" : 13,
+				"max" : 100,
+				"min" : -100,
+				"order" : 113,
+				"text" : "Y [00]",
+				"type" : "slider",
+				"value" : 0
+			},
+			"schemecolor" : 
+			{
+				"order" : 100,
+				"text" : "Color",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+			"size" : 
+			{
+				"fraction" : false,
+				"index" : 14,
+				"max" : 20,
+				"min" : 0,
+				"order" : 114,
+				"text" : "Size [05]",
+				"type" : "slider",
+				"value" : 5
+			},
+			"skin" : 
+			{
+				"index" : 5,
+				"order" : 105,
+				"text" : "Skin",
+				"type" : "bool",
+				"value" : false
+			},
+			"speed" : 
+			{
+				"fraction" : true,
+				"index" : 15,
+				"max" : 5,
+				"min" : 0,
+				"order" : 115,
+				"precision" : 2,
+				"step" : 0.1,
+				"text" : "Speed [01]",
+				"type" : "slider",
+				"value" : 1
+			},
+			"stance" : 
+			{
+				"index" : 1,
+				"options" : 
+				[
+					{
+						"label" : "Full Body",
+						"value" : "fb"
+					},
+					{
+						"label" : "Cover",
+						"value" : "cover"
+					},
+					{
+						"label" : "Aim",
+						"value" : "aim"
+					}
+				],
+				"order" : 101,
+				"text" : "Stance",
+				"type" : "combo",
+				"value" : "fb"
+			},
+			"videobackground" : 
+			{
+				"fileType" : "video",
+				"index" : 9,
+				"order" : 109,
+				"text" : "Webm background",
+				"type" : "file",
+				"value" : ""
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"ratingsex" : "none",
+	"ratingviolence" : "none",
+	"tags" : [ "Anime" ],
+	"title" : "Nikke Live2D",
+	"type" : "Web",
+	"version" : 1,
+	"visibility" : "public",
+	"workshopid" : "3452830381",
+	"workshopurl" : "steam://url/CommunityFilePage/3452830381"
+}
