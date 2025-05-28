@@ -279,6 +279,18 @@
 						"value" : "c102"
 					},
 					{
+						"label" : "Laplace",
+						"value" : "c103"
+					},
+					{
+						"label" : "Drake",
+						"value" : "c104"
+					},
+					{
+						"label" : "Maxwell",
+						"value" : "c105"
+					},
+					{
 						"label" : "Maxwell Mechanic White",
 						"value" : "c102_01"
 					},
@@ -379,8 +391,12 @@
 						"value" : "c161"
 					},
 					{
-						"label" : "Mihara",
+						"label" : "Mihara: Bonding Chain",
 						"value" : "c162"
+					},
+					{
+						"label" : "Mihara: Paint Eater",
+						"value" : "c162_01"
 					},
 					{
 						"label" : "Privaty",
@@ -1007,12 +1023,24 @@
 						"value" : "c511_01"
 					},
 					{
-						"label" : "Little Mermaid",
+						"label" : "Anachiro | Cinderella Beatiful Me",
+						"value" : "c511_02"
+					},
+					{
+						"label" : "Little Mermaid | Siren",
 						"value" : "c513"
+					},
+					{
+						"label" : "Little Mermaid | Siren Abyss Flower",
+						"value" : "c513_01"
 					},
 					{
 						"label" : "Grave the Great (GraGre)",
 						"value" : "c514"
+					},
+					{
+						"label" : "Grave the Great (GraGre) Beatiful You",
+						"value" : "c514_01"
 					},
 					{
 						"label" : "Bready",
@@ -1045,6 +1073,22 @@
 					{
 						"label" : "Phantom",
 						"value" : "c580"
+					},
+					{
+						"label" : "Arcana",
+						"value" : "c581"
+					},
+					{
+						"label" : "Mori",
+						"value" : "c590"
+					},
+					{
+						"label" : "Mint",
+						"value" : "c600"
+					},
+					{
+						"label" : "Prika",
+						"value" : "c601"
 					},
 					{
 						"label" : "Makima",
