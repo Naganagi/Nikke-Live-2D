@@ -1,6 +1,6 @@
 {
 	"contentrating" : "Everyone",
-	"description" : "Thanks to:\n- Nikke db (https://nikke-db.github.io) for providing the live2d models and tools to extract them\n- [TSE]SHADOW for creating to original \"Nikke Visualiser\" which this is based off\n\nNote:\nThis is setup is for all model files which can be located in the Nikke DB Github. This however can not be uploaded as this would go over the file size limit for web wallpapers.\n\nIf you wish to grab the remaining model files, follow this link: https://github.com/Nikke-db/Nikke-db.github.io\n\n1. Download a zip folder of the contents\n2. Extract the file\n3. The model folders can be found in the \"l2d\" folder of the extracted folder\n4. Place the model folders into the \"image\" folder in Wallpaper engine project file. Example: D:\\SteamLibrary\\steamapps\\workshop\\content\\431960\\2894930545\\image",
+	"description" : "Thanks to:\n- Nikke db (https://nikke-db.github.io) for providing the live2d models and tools to extract them\n- [TSE]SHADOW for creating to original \"Nikke Visualiser\" which this is based off\n\nNote:\nThis is setup is for all model files which can be located in the Nikke DB Github. This however can not be uploaded as this would go over the file size limit for web wallpapers.\n\nIf you wish to grab the remaining model files, follow this link: https://github.com/Naganagi/Nikke-Live-2D\n\n1. Download a zip folder of the contents\n2. Extract all the files (The model folders can be found in the \"image\" folder of the extracted folder if you only want to move the model files)\n4. Place the folders content into the folder in Wallpaper engine project file. Example: \nC:\\Program Files (x86)\\Steam\\steamapps\\\\workshop\\content\\431960\\3452830381\\image\n\nor\n\nD:\\SteamLibrary\\steamapps\\workshop\\content\\431960\\3452830381\\image",
 	"file" : "index.html",
 	"general" : 
 	{
@@ -63,1484 +63,1620 @@
 				"options" : 
 				[
 					{
-						"label" : "Rapi",
-						"value" : "c010"
+						"label": "Rapi",
+						"value": "c010"
 					},
 					{
-						"label" : "Rapi_old",
-						"value" : "c010_01"
+						"label": "Rapi_old",
+						"value": "c010_01"
 					},
 					{
-						"label" : "Rapi White Promise",
-						"value" : "c010_02"
+						"label": "Rapi White Promise",
+						"value": "c010_02"
 					},
 					{
-						"label" : "Rapi Classic Vacation",
-						"value" : "c010_03"
+						"label": "Rapi Classic Vacation",
+						"value": "c010_03"
 					},
 					{
-						"label" : "Neon",
-						"value" : "c011"
+						"label": "Neon",
+						"value": "c011"
 					},
 					{
-						"label" : "Neon Bling Bullet",
-						"value" : "c011_01"
+						"label": "Neon Bling Bullet",
+						"value": "c011_01"
 					},
 					{
-						"label" : "Anis",
-						"value" : "c012"
+						"label": "Anis",
+						"value": "c012"
 					},
 					{
-						"label" : "Marian",
-						"value" : "c013"
+						"label": "Marian",
+						"value": "c013"
 					},
 					{
-						"label" : "Neon: Blue Ocean",
-						"value" : "c014"
+						"label": "Neon: Blue Ocean",
+						"value": "c014"
 					},
 					{
-						"label" : "Anis: Sparkling Summer",
-						"value" : "c015"
+						"label": "Anis: Sparkling Summer",
+						"value": "c015"
 					},
 					{
-						"label" : "Rapi: Red Hood",
-						"value" : "c016"
+						"label": "Rapi: Red Hood",
+						"value": "c016"
 					},
 					{
-						"label" : "Delta",
-						"value" : "c020"
+						"label": "Rapi: Red Hood Red Flavor",
+						"value": "c016_01"
 					},
 					{
-						"label" : "Signal",
-						"value" : "c022"
+						"label": "Delta",
+						"value": "c020"
 					},
 					{
-						"label" : "Signal Dramatic Chocolate",
-						"value" : "c022_01"
+						"label": "Signal",
+						"value": "c022"
 					},
 					{
-						"label" : "Poli",
-						"value" : "c030"
+						"label": "Signal Dramatic Chocolate",
+						"value": "c022_01"
 					},
 					{
-						"label" : "Poli Sweet Holic",
-						"value" : "c030_01"
+						"label": "Poli",
+						"value": "c030"
 					},
 					{
-						"label" : "Poli Cheer Up Police",
-						"value" : "c030_02"
+						"label": "Poli Sweet Holic",
+						"value": "c030_01"
 					},
 					{
-						"label" : "Miranda",
-						"value" : "c032"
+						"label": "Poli Cheer Up Police",
+						"value": "c030_02"
 					},
 					{
-						"label" : "Miranda Thief of Justice",
-						"value" : "c032_01"
+						"label": "Miranda",
+						"value": "c032"
 					},
 					{
-						"label" : "Quiry",
-						"value" : "c033"
+						"label": "Miranda Thief of Justice",
+						"value": "c032_01"
 					},
 					{
-						"label" : "D",
-						"value" : "c040"
+						"label": "Quiry",
+						"value": "c033"
 					},
 					{
-						"label" : "K",
-						"value" : "c041"
+						"label": "D",
+						"value": "c040"
 					},
 					{
-						"label" : "D: Killer Wife",
-						"value" : "c043"
+						"label": "K",
+						"value": "c041"
 					},
 					{
-						"label" : "D: Killer Wife Secret Party Cleaner",
-						"value" : "c043_01"
+						"label": "D: Killer Wife",
+						"value": "c043"
 					},
 					{
-						"label" : "Belorta",
-						"value" : "c060"
+						"label": "D: Killer Wife Secret Party Cleaner",
+						"value": "c043_01"
 					},
 					{
-						"label" : "Mica",
-						"value" : "c061"
+						"label": "Belorta",
+						"value": "c060"
 					},
 					{
-						"label" : "Mica: Snow Buddy",
-						"value" : "c062"
+						"label": "Mica",
+						"value": "c061"
 					},
 					{
-						"label" : "Brid",
-						"value" : "c070"
+						"label": "Mica: Snow Buddy",
+						"value": "c062"
 					},
 					{
-						"label" : "Brid Model Worker",
-						"value" : "c070_01"
+						"label": "Brid",
+						"value": "c070"
 					},
 					{
-						"label" : "Brid Black Moon",
-						"value" : "c070_02"
+						"label": "Brid Model Worker",
+						"value": "c070_01"
 					},
 					{
-						"label" : "Soline",
-						"value" : "c071"
+						"label": "Brid Black Moon",
+						"value": "c070_02"
 					},
 					{
-						"label" : "Diesel",
-						"value" : "c072"
+						"label": "Soline",
+						"value": "c071"
 					},
 					{
-						"label" : "Diesel Black Sunday",
-						"value" : "c072_01"
+						"label": "Diesel",
+						"value": "c072"
 					},
 					{
-						"label" : "Diesel Strawberry Flower",
-						"value" : "c072_02"
+						"label": "Diesel Black Sunday",
+						"value": "c072_01"
 					},
 					{
-						"label" : "Diesel Midnight Strawberry",
-						"value" : "c072_04"
+						"label": "Diesel Strawberry Flower",
+						"value": "c072_02"
 					},
 					{
-						"label" : "Centi",
-						"value" : "c080"
+						"label": "Diesel Midnight Strawberry",
+						"value": "c072_04"
 					},
 					{
-						"label" : "Centi Supreme Holiday",
-						"value" : "c080_01"
+						"label": "Centi",
+						"value": "c080"
 					},
 					{
-						"label" : "Liter",
-						"value" : "c082"
+						"label": "Centi Supreme Holiday",
+						"value": "c080_01"
 					},
 					{
-						"label" : "Liter Guardfish",
-						"value" : "c082_01"
+						"label": "Centi Ocean Repair",
+						"value": "c080_02"
 					},
 					{
-						"label" : "Liter Cute Sunflower",
-						"value" : "c082_02"
+						"label": "Liter",
+						"value": "c082"
 					},
 					{
-						"label" : "Emma",
-						"value" : "c090"
+						"label": "Liter Guardfish",
+						"value": "c082_01"
 					},
 					{
-						"label" : "Emma Color Me Red",
-						"value" : "c090_01"
+						"label": "Liter Cute Sunflower",
+						"value": "c082_02"
 					},
 					{
-						"label" : "Emma Office Therapy",
-						"value" : "c090_02"
+						"label": "Liter (CN)",
+						"value": "c082_80"
 					},
 					{
-						"label" : "Vesti",
-						"value" : "c091"
+						"label": "Emma",
+						"value": "c090"
 					},
 					{
-						"label" : "Vesti Ark Mage",
-						"value" : "c091_01"
+						"label": "Emma Color Me Red",
+						"value": "c090_01"
 					},
 					{
-						"label" : "Eunhwa",
-						"value" : "c092"
+						"label": "Emma Office Therapy",
+						"value": "c090_02"
 					},
 					{
-						"label" : "Emma",
-						"value" : "c093"
+						"label": "Vesti",
+						"value": "c091"
 					},
 					{
-						"label" : "Vesti",
-						"value" : "c094"
+						"label": "Vesti Ark Mage",
+						"value": "c091_01"
 					},
 					{
-						"label" : "Eunhwa",
-						"value" : "c095"
+						"label": "Eunhwa",
+						"value": "c092"
 					},
 					{
-						"label" : "Laplace",
-						"value" : "c100"
+						"label": "Emma: Tactical Upgrade",
+						"value": "c093"
 					},
 					{
-						"label" : "Drake",
-						"value" : "c101"
+						"label": "Vesti: Tactical Upgrade",
+						"value": "c094"
 					},
 					{
-						"label" : "Drake Villain Racer",
-						"value" : "c101_01"
+						"label": "Eunhwa: Tactical Upgrade",
+						"value": "c095"
 					},
 					{
-						"label" : "Drake Maid For Villain",
-						"value" : "c101_02"
+						"label": "Eunhwa: Tactical Upgrade Day Off",
+						"value": "c095_01"
 					},
 					{
-						"label" : "Maxwell",
-						"value" : "c102"
+						"label": "Laplace",
+						"value": "c100"
 					},
 					{
-						"label" : "Laplace",
-						"value" : "c103"
+						"label": "Drake",
+						"value": "c101"
 					},
 					{
-						"label" : "Drake",
-						"value" : "c104"
+						"label": "Drake Villain Racer",
+						"value": "c101_01"
 					},
 					{
-						"label" : "Maxwell",
-						"value" : "c105"
+						"label": "Drake Maid For Villain",
+						"value": "c101_02"
 					},
 					{
-						"label" : "Maxwell Mechanic White",
-						"value" : "c102_01"
+						"label": "Maxwell",
+						"value": "c102"
 					},
 					{
-						"label" : "Crow",
-						"value" : "c110"
+						"label": "Maxwell Mechanic White",
+						"value": "c102_01"
 					},
 					{
-						"label" : "Jackal",
-						"value" : "c111"
+						"label": "Laplace",
+						"value": "c103"
 					},
 					{
-						"label" : "Viper",
-						"value" : "c112"
+						"label": "Drake",
+						"value": "c104"
 					},
 					{
-						"label" : "Viper Toxic Rabbit",
-						"value" : "c112_01"
+						"label": "Maxwell",
+						"value": "c105"
 					},
 					{
-						"label" : "Viper Shine of Love",
-						"value" : "c112_02"
+						"label": "Crow",
+						"value": "c110"
 					},
 					{
-						"label" : "N102",
-						"value" : "c120"
+						"label": "Jackal",
+						"value": "c111"
 					},
 					{
-						"label" : "Anne: Miracle Fairy",
-						"value" : "c121"
+						"label": "Viper",
+						"value": "c112"
 					},
 					{
-						"label" : "Mary",
-						"value" : "c130"
+						"label": "Viper Toxic Rabbit",
+						"value": "c112_01"
 					},
 					{
-						"label" : "Mary Medical Rabbit",
-						"value" : "c130_01"
+						"label": "Viper Shine of Love",
+						"value": "c112_02"
 					},
 					{
-						"label" : "Pepper",
-						"value" : "c131"
+						"label": "N102",
+						"value": "c120"
 					},
 					{
-						"label" : "Pepper Ocean Vitamin",
-						"value" : "c131_01"
+						"label": "Anne: Miracle Fairy",
+						"value": "c121"
 					},
 					{
-						"label" : "Mary: Bay Goddess",
-						"value" : "c132"
+						"label": "Mary",
+						"value": "c130"
 					},
 					{
-						"label" : "Sugar",
-						"value" : "c140"
+						"label": "Mary Medical Rabbit",
+						"value": "c130_01"
 					},
 					{
-						"label" : "Sugar Hard-Boiled",
-						"value" : "c140_01"
+						"label": "Pepper",
+						"value": "c131"
 					},
 					{
-						"label" : "Sugar Wild Backyard",
-						"value" : "c140_02"
+						"label": "Pepper Ocean Vitamin",
+						"value": "c131_01"
 					},
 					{
-						"label" : "Milk",
-						"value" : "c141"
+						"label": "Mary: Bay Goddess",
+						"value": "c132"
 					},
 					{
-						"label" : "Milk Extreme Fighter",
-						"value" : "c141_01"
+						"label": "Sugar",
+						"value": "c140"
 					},
 					{
-						"label" : "Frima",
-						"value" : "c142"
+						"label": "Sugar Hard-Boiled",
+						"value": "c140_01"
 					},
 					{
-						"label" : "Frima Sea of Sloth",
-						"value" : "c142_01"
+						"label": "Sugar Wild Backyard",
+						"value": "c140_02"
 					},
 					{
-						"label" : "Julia",
-						"value" : "c150"
+						"label": "Milk",
+						"value": "c141"
 					},
 					{
-						"label" : "Julia Mild Nocturne",
-						"value" : "c150_01"
+						"label": "Milk Extreme Fighter",
+						"value": "c141_01"
 					},
 					{
-						"label" : "Yuni",
-						"value" : "c160"
+						"label": "Frima",
+						"value": "c142"
 					},
 					{
-						"label" : "Yuni Pretty In Pink",
-						"value" : "c160_01"
+						"label": "Frima Sea of Sloth",
+						"value": "c142_01"
 					},
 					{
-						"label" : "Mihara",
-						"value" : "c161"
+						"label": "Julia",
+						"value": "c150"
 					},
 					{
-						"label" : "Mihara: Bonding Chain",
-						"value" : "c162"
+						"label": "Julia Mild Nocturne",
+						"value": "c150_01"
 					},
 					{
-						"label" : "Mihara: Paint Eater",
-						"value" : "c162_01"
+						"label": "Julia Summer Romance",
+						"value": "c150_02"
 					},
 					{
-						"label" : "Privaty",
-						"value" : "c170"
+						"label": "Yuni",
+						"value": "c160"
 					},
 					{
-						"label" : "Privaty Government Grunt",
-						"value" : "c170_01"
+						"label": "Yuni Pretty In Pink",
+						"value": "c160_01"
 					},
 					{
-						"label" : "Privaty Banquet Princess",
-						"value" : "c170_02"
+						"label": "Mihara",
+						"value": "c161"
 					},
 					{
-						"label" : "Privaty (CN)",
-						"value" : "c170_03"
+						"label": "Mihara: Bonding Chain",
+						"value": "c162"
 					},
 					{
-						"label" : "Yulha",
-						"value" : "c171"
+						"label": "Mihara: Paint Eater",
+						"value": "c162_01"
 					},
 					{
-						"label" : "Admi",
-						"value" : "c172"
+						"label": "Privaty",
+						"value": "c170"
 					},
 					{
-						"label" : "Guillotine",
-						"value" : "c180"
+						"label": "Privaty Government Grunt",
+						"value": "c170_01"
 					},
 					{
-						"label" : "Guillotine Dark Tracer",
-						"value" : "c180_01"
+						"label": "Privaty Banquet Princess",
+						"value": "c170_02"
 					},
 					{
-						"label" : "Maiden",
-						"value" : "c181"
+						"label": "Privaty (CN)",
+						"value": "c170_03"
 					},
 					{
-						"label" : "Guillotine Winter Slayer",
-						"value" : "c182"
+						"label": "Yulha",
+						"value": "c171"
 					},
 					{
-						"label" : "Maiden Ice Rose",
-						"value" : "c183"
+						"label": "Admi",
+						"value": "c172"
 					},
 					{
-						"label" : "Maiden Covert Nurse",
-						"value" : "c181_01"
+						"label": "Guillotine",
+						"value": "c180"
 					},
 					{
-						"label" : "Maiden Under the Sun",
-						"value" : "c181_02"
+						"label": "Guillotine Dark Tracer",
+						"value": "c180_01"
 					},
 					{
-						"label" : "Ludmilla",
-						"value" : "c190"
+						"label": "Maiden",
+						"value": "c181"
 					},
 					{
-						"label" : "Alice",
-						"value" : "c191"
+						"label": "Maiden Covert Nurse",
+						"value": "c181_01"
 					},
 					{
-						"label" : "Alice Sweet Home",
-						"value" : "c191_01"
+						"label": "Maiden Under the Sun",
+						"value": "c181_02"
 					},
 					{
-						"label" : "Tove",
-						"value" : "c192"
+						"label": "Guillotine Winter Slayer",
+						"value": "c182"
 					},
 					{
-						"label" : "Tove Baseball Fan",
-						"value" : "c192_01"
+						"label": "Maiden Ice Rose",
+						"value": "c183"
 					},
 					{
-						"label" : "Neve",
-						"value" : "c193"
+						"label": "Ludmilla",
+						"value": "c190"
 					},
 					{
-						"label" : "Ludmilla: Winter Owner",
-						"value" : "c194"
+						"label": "Alice",
+						"value": "c191"
 					},
 					{
-						"label" : "Alice: Wonderland Bunny",
-						"value" : "c195"
+						"label": "Alice Sweet Home",
+						"value": "c191_01"
 					},
 					{
-						"label" : "Rupee",
-						"value" : "c200"
+						"label": "Tove",
+						"value": "c192"
 					},
 					{
-						"label" : "Rupee Rabbit Deluxe",
-						"value" : "c200_01"
+						"label": "Tove Baseball Fan",
+						"value": "c192_01"
 					},
 					{
-						"label" : "Yan",
-						"value" : "c201"
+						"label": "Tove Sunblaze",
+						"value": "c192_02"
 					},
 					{
-						"label" : "Yan Sunrise Market",
-						"value" : "c201_01"
+						"label": "Neve",
+						"value": "c193"
 					},
 					{
-						"label" : "Dolla",
-						"value" : "c202"
+						"label": "Ludmilla: Winter Owner",
+						"value": "c194"
 					},
 					{
-						"label" : "Dolla Dark Rose",
-						"value" : "c202_01"
+						"label": "Alice: Wonderland Bunny",
+						"value": "c195"
 					},
 					{
-						"label" : "Rupee: Winter Shopper",
-						"value" : "c203"
+						"label": "Rupee",
+						"value": "c200"
 					},
 					{
-						"label" : "Exia",
-						"value" : "c210"
+						"label": "Rupee Rabbit Deluxe",
+						"value": "c200_01"
 					},
 					{
-						"label" : "Exia Joy to the Nerds",
-						"value" : "c210_01"
+						"label": "Yan",
+						"value": "c201"
 					},
 					{
-						"label" : "Exia Gamer",
-						"value" : "c210_02"
+						"label": "Yan Sunrise Market",
+						"value": "c201_01"
 					},
 					{
-						"label" : "Novel",
-						"value" : "c212"
+						"label": "Dolla",
+						"value": "c202"
 					},
 					{
-						"label" : "Novel Penguin Holmes",
-						"value" : "c212_01"
+						"label": "Dolla Dark Rose",
+						"value": "c202_01"
 					},
 					{
-						"label" : "Novel Detective Nurse",
-						"value" : "c212_02"
+						"label": "Rupee: Winter Shopper",
+						"value": "c203"
 					},
 					{
-						"label" : "Snow White",
-						"value" : "c220"
+						"label": "Exia",
+						"value": "c210"
 					},
 					{
-						"label" : "Snow White White Knight",
-						"value" : "c220_01"
+						"label": "Exia Joy to the Nerds",
+						"value": "c210_01"
 					},
 					{
-						"label" : "Rapunzel",
-						"value" : "c221"
+						"label": "Exia Gamer",
+						"value": "c210_02"
 					},
 					{
-						"label" : "Scarlet",
-						"value" : "c222"
+						"label": "Exia Hacker Rabbit",
+						"value": "c210_03"
 					},
 					{
-						"label" : "Snow White: Innocent Days",
-						"value" : "c224"
+						"label": "Novel",
+						"value": "c212"
 					},
 					{
-						"label" : "Scarlet: Black Shadow",
-						"value" : "c225"
+						"label": "Novel Penguin Holmes",
+						"value": "c212_01"
 					},
 					{
-						"label" : "Scarlet: Black Shadow Longing Flower",
-						"value" : "c225_01"
+						"label": "Novel Detective Nurse",
+						"value": "c212_02"
 					},
 					{
-						"label" : "Rapunzel: Pure Grace",
-						"value" : "c226"
+						"label": "Snow White",
+						"value": "c220"
 					},
 					{
-						"label" : "Harran",
-						"value" : "c230"
+						"label": "Snow White White Knight",
+						"value": "c220_01"
 					},
 					{
-						"label" : "Harran Banquet Witch",
-						"value" : "c230_01"
+						"label": "Rapunzel",
+						"value": "c221"
 					},
 					{
-						"label" : "Isabel",
-						"value" : "c231"
+						"label": "Scarlet",
+						"value": "c222"
 					},
 					{
-						"label" : "Isabel Honeymoon Party",
-						"value" : "c231_01"
+						"label": "Scarlet Racer's High",
+						"value": "c222_01"
 					},
 					{
-						"label" : "Noah",
-						"value" : "c232"
+						"label": "Snow White: Innocent Days",
+						"value": "c224"
 					},
 					{
-						"label" : "Dorothy",
-						"value" : "c233"
+						"label": "Scarlet: Black Shadow",
+						"value": "c225"
 					},
 					{
-						"label" : "Dorothy Nostalgia",
-						"value" : "c233_01"
+						"label": "Scarlet: Black Shadow Longing Flower",
+						"value": "c225_01"
 					},
 					{
-						"label" : "Rumani",
-						"value" : "c240"
+						"label": "Rapunzel: Pure Grace",
+						"value": "c226"
 					},
 					{
-						"label" : "Epinel",
-						"value" : "c241"
+						"label": "Harran",
+						"value": "c230"
 					},
 					{
-						"label" : "Folkwang",
-						"value" : "c242"
+						"label": "Harran Banquet Witch",
+						"value": "c230_01"
 					},
 					{
-						"label" : "Folkwang Moist Bunny",
-						"value" : "c242_01"
+						"label": "Isabel",
+						"value": "c231"
 					},
 					{
-						"label" : "Mass Produced Red",
-						"value" : "c250"
+						"label": "Isabel Honeymoon Party",
+						"value": "c231_01"
 					},
 					{
-						"label" : "Mass Produced Blue",
-						"value" : "c251"
+						"label": "Noah",
+						"value": "c232"
 					},
 					{
-						"label" : "Mass Produced Orange",
-						"value" : "c252"
+						"label": "Dorothy",
+						"value": "c233"
 					},
 					{
-						"label" : "Mass Produced Green",
-						"value" : "c253"
+						"label": "Dorothy Nostalgia",
+						"value": "c233_01"
 					},
 					{
-						"label" : "Mass Produced Purple",
-						"value" : "c254"
+						"label": "Dorothy (CN)",
+						"value": "c233_80"
 					},
 					{
-						"label" : "Mass Produced White",
-						"value" : "c255"
+						"label": "Dorothy: Serendipity",
+						"value": "c234"
 					},
 					{
-						"label" : "Modernia",
-						"value" : "c260"
+						"label": "Rumani",
+						"value": "c240"
 					},
 					{
-						"label" : "Modernia First Affection",
-						"value" : "c260_01"
+						"label": "Epinel",
+						"value": "c241"
 					},
 					{
-						"label" : "Modernia Second Affection",
-						"value" : "c260_02"
+						"label": "Folkwang",
+						"value": "c242"
 					},
 					{
-						"label" : "Nihilister",
-						"value" : "c261"
+						"label": "Folkwang Moist Bunny",
+						"value": "c242_01"
 					},
 					{
-						"label" : "Liberalio",
-						"value" : "c262"
+						"label": "Mass Produced Red",
+						"value": "c250"
 					},
 					{
-						"label" : "Indivilia",
-						"value" : "c263"
+						"label": "Mass Produced Blue",
+						"value": "c251"
 					},
 					{
-						"label" : "Blanc",
-						"value" : "c270"
+						"label": "Mass Produced Orange",
+						"value": "c252"
 					},
 					{
-						"label" : "Blanc White Rabbit",
-						"value" : "c270_01"
+						"label": "Mass Produced Green",
+						"value": "c253"
 					},
 					{
-						"label" : "Noir",
-						"value" : "c271"
+						"label": "Mass Produced Purple",
+						"value": "c254"
 					},
 					{
-						"label" : "Noir Black Rabbit",
-						"value" : "c271_01"
+						"label": "Mass Produced White",
+						"value": "c255"
 					},
 					{
-						"label" : "Rouge",
-						"value" : "c272"
+						"label": "Modernia",
+						"value": "c260"
 					},
 					{
-						"label" : "Rosanna",
-						"value" : "c280"
+						"label": "Modernia First Affection",
+						"value": "c260_01"
 					},
 					{
-						"label" : "Rosanna Ms. Dangerous",
-						"value" : "c280_01"
+						"label": "Modernia Second Affection",
+						"value": "c260_02"
 					},
 					{
-						"label" : "Moran",
-						"value" : "c281"
+						"label": "Modernia (CN)",
+						"value": "c260_80"
 					},
 					{
-						"label" : "Sakura",
-						"value" : "c282"
+						"label": "Nihilister",
+						"value": "c261"
 					},
 					{
-						"label" : "Sakura Midnight Stealth",
-						"value" : "c282_01"
+						"label": "Liberalio",
+						"value": "c262"
 					},
 					{
-						"label" : "Rosanna: Chic Ocean",
-						"value" : "c283"
+						"label": "Indivilia",
+						"value": "c263"
 					},
 					{
-						"label" : "Sakura: Bloom in Summer",
-						"value" : "c284"
+						"label": "Blanc",
+						"value": "c270"
 					},
 					{
-						"label" : "Mana",
-						"value" : "c290"
+						"label": "Blanc White Rabbit",
+						"value": "c270_01"
 					},
 					{
-						"label" : "Ether",
-						"value" : "c291"
+						"label": "Blanc No. 77 Batter",
+						"value": "c270_02"
 					},
 					{
-						"label" : "Soldier EG",
-						"value" : "c300"
+						"label": "Noir",
+						"value": "c271"
 					},
 					{
-						"label" : "Soldier FA",
-						"value" : "c301"
+						"label": "Noir Black Rabbit",
+						"value": "c271_01"
 					},
 					{
-						"label" : "Product 08",
-						"value" : "c302"
+						"label": "Noir Baseball Cheerleader",
+						"value": "c271_02"
 					},
 					{
-						"label" : "Product 12",
-						"value" : "c303"
+						"label": "Rouge",
+						"value": "c272"
 					},
 					{
-						"label" : "iDoll Flower",
-						"value" : "c304"
+						"label": "Rosanna",
+						"value": "c280"
 					},
 					{
-						"label" : "iDoll Ocean",
-						"value" : "c305"
+						"label": "Rosanna Ms. Dangerous",
+						"value": "c280_01"
 					},
 					{
-						"label" : "Soldier OW",
-						"value" : "c306"
+						"label": "Rosanna: Chic Ocean",
+						"value": "c283"
 					},
 					{
-						"label" : "Product 23",
-						"value" : "c307"
+						"label": "Moran",
+						"value": "c281"
 					},
 					{
-						"label" : "iDoll Sun",
-						"value" : "c308"
+						"label": "Moran Off-Duty Queen",
+						"value": "c281_01"
 					},
 					{
-						"label" : "Ade",
-						"value" : "c310"
+						"label": "Sakura",
+						"value": "c282"
 					},
 					{
-						"label" : "Ade Maid In Spring",
-						"value" : "c310_01"
+						"label": "Sakura Midnight Stealth",
+						"value": "c282_01"
 					},
 					{
-						"label" : "Cocoa",
-						"value" : "c311"
+						"label": "Sakura: Bloom in Summer",
+						"value": "c284"
 					},
 					{
-						"label" : "Soda",
-						"value" : "c312"
+						"label": "Mana",
+						"value": "c290"
 					},
 					{
-						"label" : "Privaty: Unkind Maid",
-						"value" : "c313"
+						"label": "Ether",
+						"value": "c291"
 					},
 					{
-						"label" : "Soda: Twinkling Bunny",
-						"value" : "c314"
+						"label": "Soldier EG",
+						"value": "c300"
 					},
 					{
-						"label" : "Marciana",
-						"value" : "c321"
+						"label": "Soldier FA",
+						"value": "c301"
 					},
 					{
-						"label" : "Marciana School Days",
-						"value" : "c321_01"
+						"label": "Product 08",
+						"value": "c302"
 					},
 					{
-						"label" : "Crown",
-						"value" : "c330"
+						"label": "Product 12",
+						"value": "c303"
 					},
 					{
-						"label" : "Crown Naked King",
-						"value" : "c330_01"
+						"label": "iDoll Flower",
+						"value": "c304"
 					},
 					{
-						"label" : "Chime",
-						"value" : "c331"
+						"label": "iDoll Ocean",
+						"value": "c305"
 					},
 					{
-						"label" : "Mast",
-						"value" : "c350"
+						"label": "Soldier OW",
+						"value": "c306"
 					},
 					{
-						"label" : "Mast A Pirate's Heart",
-						"value" : "c350_01"
+						"label": "Product 23",
+						"value": "c307"
 					},
 					{
-						"label" : "Mast the Diver",
-						"value" : "c350_02"
+						"label": "iDoll Sun",
+						"value": "c308"
 					},
 					{
-						"label" : "Mast_old",
-						"value" : "c350_old"
+						"label": "Ade",
+						"value": "c310"
 					},
 					{
-						"label" : "Anchor",
-						"value" : "c351"
+						"label": "Ade Maid In Spring",
+						"value": "c310_01"
 					},
 					{
-						"label" : "Anchor the Diver",
-						"value" : "c351_01"
+						"label": "Cocoa",
+						"value": "c311"
 					},
 					{
-						"label" : "Helm",
-						"value" : "c352"
+						"label": "Soda",
+						"value": "c312"
 					},
 					{
-						"label" : "Helm Chandelier",
-						"value" : "c352_01"
+						"label": "Privaty: Unkind Maid",
+						"value": "c313"
 					},
 					{
-						"label" : "Helm Post-Shower Moment",
-						"value" : "c352_02"
+						"label": "Soda: Twinkling Bunny",
+						"value": "c314"
 					},
 					{
-						"label" : "Helm: Aquamarine",
-						"value" : "c353"
+						"label": "Marciana",
+						"value": "c321"
 					},
 					{
-						"label" : "Mast: Romantic Maid",
-						"value" : "c354"
+						"label": "Marciana School Days",
+						"value": "c321_01"
 					},
 					{
-						"label" : "Anchor: Innocent Maid",
-						"value" : "c355"
+						"label": "Crown",
+						"value": "c330"
 					},
 					{
-						"label" : "T.A.L.O.S (Kilo)",
-						"value" : "c361"
+						"label": "Crown Naked King",
+						"value": "c330_01"
 					},
 					{
-						"label" : "Nero",
-						"value" : "c380"
+						"label": "Chime",
+						"value": "c331"
 					},
 					{
-						"label" : "Biscuit",
-						"value" : "c381"
+						"label": "Mast",
+						"value": "c350"
 					},
 					{
-						"label" : "Biscuit Spring Puppy",
-						"value" : "c381_01"
+						"label": "Mast A Pirate's Heart",
+						"value": "c350_01"
 					},
 					{
-						"label" : "Leona",
-						"value" : "c382"
+						"label": "Mast the Diver",
+						"value": "c350_02"
 					},
 					{
-						"label" : "Leona Zoo Keeper",
-						"value" : "c382_01"
+						"label": "Mast_old",
+						"value": "c350_old"
 					},
 					{
-						"label" : "Zwei",
-						"value" : "c390"
+						"label": "Anchor",
+						"value": "c351"
 					},
 					{
-						"label" : "Zwei First Festa",
-						"value" : "c390_01"
+						"label": "Anchor the Diver",
+						"value": "c351_01"
 					},
 					{
-						"label" : "Ein",
-						"value" : "c391"
+						"label": "Helm",
+						"value": "c352"
 					},
 					{
-						"label" : "Ein Handmade Festa",
-						"value" : "c391_01"
+						"label": "Helm Chandelier",
+						"value": "c352_01"
 					},
 					{
-						"label" : "Rei",
-						"value" : "c392"
+						"label": "Helm Post-Shower Moment",
+						"value": "c352_02"
 					},
 					{
-						"label" : "Guilty",
-						"value" : "c400"
+						"label": "Helm: Aquamarine",
+						"value": "c353"
 					},
 					{
-						"label" : "Guilty Wave of Disbelief",
-						"value" : "c400_01"
+						"label": "Mast: Romantic Maid",
+						"value": "c354"
 					},
 					{
-						"label" : "Sin",
-						"value" : "c401"
+						"label": "Anchor: Innocent Maid",
+						"value": "c355"
 					},
 					{
-						"label" : "Sin Backstreet Dream",
-						"value" : "c401_01"
+						"label": "T.A.L.O.S (Kilo)",
+						"value": "c361"
 					},
 					{
-						"label" : "Quency",
-						"value" : "c402"
+						"label": "Eternity",
+						"value": "c370"
 					},
 					{
-						"label" : "Quency Escape Queen",
-						"value" : "c403"
+						"label": "Endless",
+						"value": "c371"
 					},
 					{
-						"label" : "Flora",
-						"value" : "c411"
+						"label": "Nero",
+						"value": "c380"
 					},
 					{
-						"label" : "Trina",
-						"value" : "c412"
+						"label": "Biscuit",
+						"value": "c381"
 					},
 					{
-						"label" : "Noise",
-						"value" : "c430"
+						"label": "Biscuit Spring Puppy",
+						"value": "c381_01"
 					},
 					{
-						"label" : "Noise Cherry Blossom Stage",
-						"value" : "c430_01"
+						"label": "Leona",
+						"value": "c382"
 					},
 					{
-						"label" : "Noise Classic Diva",
-						"value" : "c430_02"
+						"label": "Leona Zoo Keeper",
+						"value": "c382_01"
 					},
 					{
-						"label" : "Volume",
-						"value" : "c431"
+						"label": "Zwei",
+						"value": "c390"
 					},
 					{
-						"label" : "Volume Beat the Gun",
-						"value" : "c431_01"
+						"label": "Zwei First Festa",
+						"value": "c390_01"
 					},
 					{
-						"label" : "Aria",
-						"value" : "c432"
+						"label": "Ein",
+						"value": "c391"
 					},
 					{
-						"label" : "Eyeri",
-						"value" : "c440"
+						"label": "Ein Handmade Festa",
+						"value": "c391_01"
 					},
 					{
-						"label" : "Avista",
-						"value" : "c441"
+						"label": "Rei",
+						"value": "c392"
 					},
 					{
-						"label" : "Naga",
-						"value" : "c450"
+						"label": "Guilty",
+						"value": "c400"
 					},
 					{
-						"label" : "Naga Elegant Date",
-						"value" : "c450_01"
+						"label": "Guilty Wave of Disbelief",
+						"value": "c400_01"
 					},
 					{
-						"label" : "Naga Last Girlhood",
-						"value" : "c450_02"
+						"label": "Sin",
+						"value": "c401"
 					},
 					{
-						"label" : "Tia",
-						"value" : "c451"
+						"label": "Sin Backstreet Dream",
+						"value": "c401_01"
 					},
 					{
-						"label" : "Tia Lovely Date",
-						"value" : "c451_01"
+						"label": "Quency",
+						"value": "c402"
 					},
 					{
-						"label" : "Tia Sweet Chef",
-						"value" : "c451_02"
+						"label": "Quency Escape Queen",
+						"value": "c403"
 					},
 					{
-						"label" : "Red Hood",
-						"value" : "c470"
+						"label": "Flora",
+						"value": "c411"
 					},
 					{
-						"label" : "Red Hood Nonsense Red",
-						"value" : "c470_01"
+						"label": "Trina",
+						"value": "c412"
 					},
 					{
-						"label" : "Liveryn",
-						"value" : "c480"
+						"label": "Noise",
+						"value": "c430"
 					},
 					{
-						"label" : "Fragile",
-						"value" : "c481"
+						"label": "Noise Cherry Blossom Stage",
+						"value": "c430_01"
 					},
 					{
-						"label" : "Hammering",
-						"value" : "c490"
+						"label": "Noise Classic Diva",
+						"value": "c430_02"
 					},
 					{
-						"label" : "Drilley",
-						"value" : "c491"
+						"label": "Volume",
+						"value": "c431"
 					},
 					{
-						"label" : "Elegg",
-						"value" : "c500"
+						"label": "Volume Beat the Gun",
+						"value": "c431_01"
 					},
 					{
-						"label" : "Trony",
-						"value" : "c501"
+						"label": "Aria",
+						"value": "c432"
 					},
 					{
-						"label" : "Trony Sweet Step",
-						"value" : "c501_01"
+						"label": "Eyeri",
+						"value": "c440"
 					},
 					{
-						"label" : "Grave",
-						"value" : "c510"
+						"label": "Avista",
+						"value": "c441"
 					},
 					{
-						"label" : "Anachiro | Cinderella",
-						"value" : "c511"
+						"label": "Naga",
+						"value": "c450"
 					},
 					{
-						"label" : "Anachiro | Cinderella Glass Princess",
-						"value" : "c511_01"
+						"label": "Naga Elegant Date",
+						"value": "c450_01"
 					},
 					{
-						"label" : "Anachiro | Cinderella Beatiful Me",
-						"value" : "c511_02"
+						"label": "Naga Last Girlhood",
+						"value": "c450_02"
 					},
 					{
-						"label" : "Little Mermaid | Siren",
-						"value" : "c513"
+						"label": "Tia",
+						"value": "c451"
 					},
 					{
-						"label" : "Little Mermaid | Siren Abyss Flower",
-						"value" : "c513_01"
+						"label": "Tia Lovely Date",
+						"value": "c451_01"
 					},
 					{
-						"label" : "Grave the Great (GraGre)",
-						"value" : "c514"
+						"label": "Tia Sweet Chef",
+						"value": "c451_02"
 					},
 					{
-						"label" : "Grave the Great (GraGre) Beatiful You",
-						"value" : "c514_01"
+						"label": "Red Hood",
+						"value": "c470"
 					},
 					{
-						"label" : "Bready",
-						"value" : "c520"
+						"label": "Red Hood Nonsense Red",
+						"value": "c470_01"
 					},
 					{
-						"label" : "Crust",
-						"value" : "c521"
+						"label": "Liveryn",
+						"value": "c480"
 					},
 					{
-						"label" : "Bay",
-						"value" : "c550"
+						"label": "Fragile",
+						"value": "c481"
 					},
 					{
-						"label" : "Clay",
-						"value" : "c551"
+						"label": "Hammering",
+						"value": "c490"
 					},
 					{
-						"label" : "Behemoth",
-						"value" : "c560"
+						"label": "Drilley",
+						"value": "c491"
 					},
 					{
-						"label" : "Leviathan",
-						"value" : "c562"
+						"label": "Elegg",
+						"value": "c500"
+					},	
+					{
+						"label": "Trony",
+						"value": "c501"
+					},
+					{
+						"label": "Trony Sweet Step",
+						"value": "c501_01"
+					},
+					{
+						"label": "Elegg: Boom and Shock",
+						"value": "c502"
+					},
+					{
+						"label": "Grave",
+						"value": "c510"
+					},
+					{
+						"label": "Anachiro | Cinderella",
+						"value": "c511"
+					},
+					{
+						"label": "Anachiro | Cinderella Glass Princess",
+						"value": "c511_01"
+					},
+					{
+						"label": "Anachiro | Cinderella Beatiful Me",
+						"value": "c511_02"
+					},
+					{
+						"label": "Little Mermaid | Siren",
+						"value": "c513"
+					},
+					{
+						"label": "Little Mermaid | Siren Abyss Flower",
+						"value": "c513_01"
+					},
+					{
+						"label": "Grave the Great (GraGre)",
+						"value": "c514"
+					},
+					{
+						"label": "Grave the Great (GraGre) Beatiful You",
+						"value": "c514_01"
+					},
+					{
+						"label": "Bready",
+						"value": "c520"
+					},
+					{
+						"label": "Crust",
+						"value": "c521"
+					},
+					{
+						"label": "Sky",
+						"value": "c530"
+					},
+					{
+						"label": "Cielo",
+						"value": "c531"
+					},
+					{
+						"label": "Sora",
+						"value": "c532"
+					},
+					{
+						"label": "Bay",
+						"value": "c550"
+					},
+					{
+						"label": "Clay",
+						"value": "c551"
+					},
+					{
+						"label": "Behemoth",
+						"value": "c560"
+					},
+					{
+						"label": "Leviathan",
+						"value": "c562"
+					},
+					{
+						"label": "Black Ark Ranger",
+						"value": "c570"
+					},
+					{
+						"label": "Phantom",
+						"value": "c580"
+					},
+					{
+						"label": "Arcana",
+						"value": "c581"
+					},
+					{
+						"label": "Mori",
+						"value": "c590"
+					},
+					{
+						"label": "Mint",
+						"value": "c600"
+					},
+					{
+						"label": "Prika",
+						"value": "c601"
+					},
+					{
+						"label": "Makima",
+						"value": "c800"
+					},
+					{
+						"label": "Makima Coat Off",
+						"value": "c800_01"
+					},
+					{
+						"label": "Power",
+						"value": "c801"
+					},
+					{
+						"label": "Himeno",
+						"value": "c802"
+					},
+					{
+						"label": "Denji",
+						"value": "c803"
+					},
+					{
+						"label": "Denji Chainsaw Man",
+						"value": "c803_01"
+					},
+					{
+						"label": "Aki Hayakawa",
+						"value": "c804"
+					},
+					{
+						"label": "2B",
+						"value": "c810"
 					},
 					{
-						"label" : "Black Ark Ranger",
-						"value" : "c570"
+						"label": "2B Metamorphic Damage",
+						"value": "c810_01"
 					},
 					{
-						"label" : "Phantom",
-						"value" : "c580"
+						"label": "2B YoRHa Uniform 1",
+						"value": "c810_02"
 					},
 					{
-						"label" : "Arcana",
-						"value" : "c581"
+						"label": "2B Unofficial Waterfront Gear 1",
+						"value": "c810_03"
 					},
 					{
-						"label" : "Mori",
-						"value" : "c590"
+						"label": "A2",
+						"value": "c811"
 					},
 					{
-						"label" : "Mint",
-						"value" : "c600"
+						"label": "A2 Metamorphic Damage",
+						"value": "c811_01"
 					},
 					{
-						"label" : "Prika",
-						"value" : "c601"
+						"label": "A2 YoRHa Uniform Prototype",
+						"value": "c811_02"
 					},
 					{
-						"label" : "Makima",
-						"value" : "c800"
+						"label": "A2 Unofficial Waterfront Gear Prototype",
+						"value": "c811_03"
 					},
 					{
-						"label" : "Makima Coat Off",
-						"value" : "c800_01"
+						"label": "Pascal",
+						"value": "c812"
 					},
 					{
-						"label" : "Power",
-						"value" : "c801"
+						"label": "9S",
+						"value": "c813"
 					},
 					{
-						"label" : "Himeno",
-						"value" : "c802"
+						"label": "Rem",
+						"value": "c820"
 					},
 					{
-						"label" : "Denji",
-						"value" : "c803"
+						"label": "Rem Handy Maid",
+						"value": "c820_01"
 					},
 					{
-						"label" : "Denji Chainsaw Man",
-						"value" : "c803_01"
+						"label": "Rem Pure Blossom",
+						"value": "c820_02"
 					},
 					{
-						"label" : "Aki Hayakawa",
-						"value" : "c804"
+						"label": "Emilia",
+						"value": "c821"
 					},
 					{
-						"label" : "2B",
-						"value" : "c810"
+						"label": "Emilia Clumsy Maid",
+						"value": "c821_01"
 					},
 					{
-						"label" : "2B Metamorphic Damage",
-						"value" : "c810_01"
+						"label": "Emilia Spring Breeze",
+						"value": "c821_02"
 					},
 					{
-						"label" : "2B YoRHa Uniform 1",
-						"value" : "c810_02"
+						"label": "Ram",
+						"value": "c822"
 					},
 					{
-						"label" : "A2",
-						"value" : "c811"
+						"label": "Asuka Shikinami",
+						"value": "c830"
 					},
 					{
-						"label" : "A2 Metamorphic Damage",
-						"value" : "c811_01"
+						"label": "Asuka Shikinami Asuka's School Uniform",
+						"value": "c830_01"
 					},
 					{
-						"label" : "A2 YoRHa Uniform Prototype",
-						"value" : "c811_02"
+						"label": "Asuka Shikinami Cynical Street",
+						"value": "c830_02"
 					},
 					{
-						"label" : "Pascal",
-						"value" : "c812"
+						"label": "Asuka Shikinami Test Plugsuit",
+						"value": "c830_03"
 					},
 					{
-						"label" : "9S",
-						"value" : "c813"
+						"label": "Rei Ayanami",
+						"value": "c831"
 					},
 					{
-						"label" : "Rem",
-						"value" : "c820"
+						"label": "Rei Ayanami Rei's School Uniform",
+						"value": "c831_01"
 					},
 					{
-						"label" : "Rem Handy Maid",
-						"value" : "c820_01"
+						"label": "Rei Ayanami Peaceful Vacation",
+						"value": "c831_02"
 					},
 					{
-						"label" : "Rem Pure Blossom",
-						"value" : "c820_02"
+						"label": "Mari Makinami",
+						"value": "c832"
 					},
 					{
-						"label" : "Emilia",
-						"value" : "c821"
+						"label": "Mari Makinami Mari's School Uniform",
+						"value": "c832_01"
 					},
 					{
-						"label" : "Emilia Clumsy Maid",
-						"value" : "c821_01"
+						"label": "Mari Makinami Leisure Travel",
+						"value": "c832_02"
 					},
 					{
-						"label" : "Emilia Spring Breeze",
-						"value" : "c821_02"
+						"label": "Mari Makinami Final Battle",
+						"value": "c832_03"
 					},
 					{
-						"label" : "Ram",
-						"value" : "c822"
+						"label": "Mari Makinami Mystery Muse",
+						"value": "c832_04"
 					},
 					{
-						"label" : "Asuka Shikinami",
-						"value" : "c830"
+						"label": "Misato Katsuragi",
+						"value": "c833"
 					},
 					{
-						"label" : "Asuka Shikinami Asuka's School Uniform",
-						"value" : "c830_01"
+						"label": "Rei Ayanami ",
+						"value": "c834"
 					},
 					{
-						"label" : "Asuka Shikinami Cynical Street",
-						"value" : "c830_02"
+						"label": "Rei Ayanami Miss Lookalike from Village-3",
+						"value": "c834_01"
 					},
 					{
-						"label" : "Asuka Shikinami Test Plugsuit",
-						"value" : "c830_03"
+						"label": "Rei Ayanami Soul Connect",
+						"value": "c834_02"
 					},
 					{
-						"label" : "Rei Ayanami",
-						"value" : "c831"
+						"label": "Asuka Shikinami WILLE",
+						"value": "c835"
 					},
 					{
-						"label" : "Rei Ayanami Rei's School Uniform",
-						"value" : "c831_01"
+						"label": "Asuka Shikinami Final Battle",
+						"value": "c835_01"
 					},
 					{
-						"label" : "Rei Ayanami Peaceful Vacation",
-						"value" : "c831_02"
+						"label": "Asuka Shikinami Ocean's Lament",
+						"value": "c835_02"
 					},
 					{
-						"label" : "Mari Makinami",
-						"value" : "c832"
+						"label": "Sakura Suzuhara",
+						"value": "c836"
 					},
 					{
-						"label" : "Mari Makinami Mari's School Uniform",
-						"value" : "c832_01"
+						"label": "EVE",
+						"value": "c850"
 					},
 					{
-						"label" : "Mari Makinami Leisure Travel",
-						"value" : "c832_02"
+						"label": "EVE Keyhole Dress",
+						"value": "c850_01"
 					},
 					{
-						"label" : "Mari Makinami Final Battle",
-						"value" : "c832_03"
+						"label": "EVE Neurolink Suit",
+						"value": "c850_02"
 					},
 					{
-						"label" : "Mari Makinami Mystery Muse",
-						"value" : "c832_04"
+						"label": "EVE Skin Suit",
+						"value": "c850_03"
 					},
 					{
-						"label" : "Misato Katsuragi",
-						"value" : "c833"
+						"label": "Raven Keyhole Dress",
+						"value": "c851"
 					},
 					{
-						"label" : "Rei Ayanami ",
-						"value" : "c834"
+						"label": "Raven Planet Diving Suit (6th) V2",
+						"value": "c851_01"
 					},
 					{
-						"label" : "Rei Ayanami Miss Lookalike from Village-3",
-						"value" : "c834_01"
+						"label": "Raven Midsummer Alice",
+						"value": "c851_02"
 					},
 					{
-						"label" : "Rei Ayanami Soul Connect",
-						"value" : "c834_02"
+						"label": "Lily",
+						"value": "c852"
 					},
 					{
-						"label" : "Asuka Shikinami WILLE",
-						"value" : "c835"
+						"label": "Adam",
+						"value": "c853"
 					},
 					{
-						"label" : "Asuka Shikinami Final Battle",
-						"value" : "c835_01"
+						"label": "Ingrid",
+						"value": "c900"
 					},
 					{
-						"label" : "Asuka Shikinami Ocean's Lament",
-						"value" : "c835_02"
+						"label": "Syuen",
+						"value": "c901"
 					},
 					{
-						"label" : "Sakura Suzuhara",
-						"value" : "c836"
+						"label": "Mustang",
+						"value": "c902"
 					},
 					{
-						"label" : "Ingrid",
-						"value" : "c900"
+						"label": "Mustang (CN)",
+						"value": "c902_01"
 					},
 					{
-						"label" : "Syuen",
-						"value" : "c901"
+						"label": "Andersen",
+						"value": "c903"
 					},
 					{
-						"label" : "Mustang",
-						"value" : "c902"
+						"label": "Andersen Soaked",
+						"value": "c903_01"
 					},
 					{
-						"label" : "Mustang (CN)",
-						"value" : "c902_01"
+						"label": "Enikk",
+						"value": "c904"
 					},
 					{
-						"label" : "Andersen",
-						"value" : "c903"
+						"label": "Rian",
+						"value": "c905"
 					},
 					{
-						"label" : "Andersen Soaked",
-						"value" : "c903_01"
+						"label": "Shifty",
+						"value": "c907"
 					},
 					{
-						"label" : "Enikk",
-						"value" : "c904"
+						"label": "Shifty_old",
+						"value": "c907_01"
 					},
 					{
-						"label" : "Rian",
-						"value" : "c905"
+						"label": "Papillon",
+						"value": "c908"
 					},
 					{
-						"label" : "Shifty",
-						"value" : "c907"
+						"label": "Hologram",
+						"value": "c910"
 					},
 					{
-						"label" : "Shifty_old",
-						"value" : "c907_01"
+						"label": "Sweet Johnny",
+						"value": "c910_01"
 					},
 					{
-						"label" : "Papillon",
-						"value" : "c908"
+						"label": "Faceless Man",
+						"value": "c911"
 					},
 					{
-						"label" : "Hologram",
-						"value" : "c910"
+						"label": "Faceless Woman",
+						"value": "c912"
 					},
 					{
-						"label" : "Sweet Johnny",
-						"value" : "c910_01"
+						"label": "Burningum",
+						"value": "c914"
 					},
 					{
-						"label" : "Faceless Man",
-						"value" : "c911"
+						"label": "Raptillion",
+						"value": "c915"
 					},
 					{
-						"label" : "Faceless Woman",
-						"value" : "c912"
+						"label": "Faceless NPC 1",
+						"value": "c916"
 					},
 					{
-						"label" : "Burningum",
-						"value" : "c914"
+						"label": "Faceless NPC 2",
+						"value": "c917"
 					},
 					{
-						"label" : "Raptillion",
-						"value" : "c915"
+						"label": "Faceless NPC 3",
+						"value": "c918"
 					},
 					{
-						"label" : "Faceless NPC 1",
-						"value" : "c916"
+						"label": "Faceless NPC 4",
+						"value": "c919"
 					},
 					{
-						"label" : "Faceless NPC 2",
-						"value" : "c917"
+						"label": "Faceless NPC 5",
+						"value": "c920"
 					},
 					{
-						"label" : "Faceless NPC 3",
-						"value" : "c918"
+						"label": "Faceless NPC 6",
+						"value": "c921"
 					},
 					{
-						"label" : "Faceless NPC 4",
-						"value" : "c919"
+						"label": "Faceless NPC 7",
+						"value": "c922"
 					},
 					{
-						"label" : "Faceless NPC 5",
-						"value" : "c920"
+						"label": "Faceless NPC 8",
+						"value": "c923"
 					},
 					{
-						"label" : "Faceless NPC 6",
-						"value" : "c921"
+						"label": "Faceless NPC 9",
+						"value": "c924"
 					},
 					{
-						"label" : "Faceless NPC 7",
-						"value" : "c922"
+						"label": "Johan",
+						"value": "c925"
 					},
 					{
-						"label" : "Faceless NPC 8",
-						"value" : "c923"
+						"label": "Einkk",
+						"value": "c928"
 					},
 					{
-						"label" : "Faceless NPC 9",
-						"value" : "c924"
+						"label": "Cecil",
+						"value": "c929"
 					},
 					{
-						"label" : "Johan",
-						"value" : "c925"
+						"label": "Beatrice",
+						"value": "c930"
 					},
 					{
-						"label" : "Einkk",
-						"value" : "c928"
+						"label": "Collection Robot",
+						"value": "c931"
 					},
 					{
-						"label" : "Cecil",
-						"value" : "c929"
+						"label": "Com",
+						"value": "c931_01"
 					},
 					{
-						"label" : "Beatrice",
-						"value" : "c930"
+						"label": "Bolt Junior",
+						"value": "c932"
 					},
 					{
-						"label" : "Collection Robot",
-						"value" : "c931"
+						"label": "Bolt",
+						"value": "c933"
 					},
 					{
-						"label" : "Bolt Junior",
-						"value" : "c932"
+						"label": "Angelina",
+						"value": "c934"
 					},
 					{
-						"label" : "Bolt",
-						"value" : "c933"
+						"label": "Joseph",
+						"value": "c935"
 					},
 					{
-						"label" : "Angelina",
-						"value" : "c934"
+						"label": "Max",
+						"value": "c936"
 					},
 					{
-						"label" : "Joseph",
-						"value" : "c935"
+						"label": "Booboo",
+						"value": "c937"
 					},
 					{
-						"label" : "Max",
-						"value" : "c936"
+						"label": "Doban",
+						"value": "c939"
 					},
 					{
-						"label" : "Booboo",
-						"value" : "c937"
+						"label": "E.H.",
+						"value": "c940"
 					},
 					{
-						"label" : "Doban",
-						"value" : "c939"
+						"label": "Pinne",
+						"value": "c941"
 					},
 					{
-						"label" : "E.H.",
-						"value" : "c940"
+						"label": "Commander (GODDESS)",
+						"value": "c942"
 					},
 					{
-						"label" : "Pinne",
-						"value" : "c941"
+						"label": "Liliweiss",
+						"value": "c943"
 					},
 					{
-						"label" : "Commander (GODDESS)",
-						"value" : "c942"
+						"label": "Katie",
+						"value": "c945"
 					},
 					{
-						"label" : "Liliweiss",
-						"value" : "c943"
+						"label": "Ruru",
+						"value": "c946"
 					},
 					{
-						"label" : "Katie",
-						"value" : "c945"
+						"label": "Freesia",
+						"value": "c960"
 					},
 					{
-						"label" : "Ruru",
-						"value" : "c946"
+						"label": "Oswald",
+						"value": "c961"
 					},
 					{
-						"label" : "Freesia",
-						"value" : "c960"
+						"label": "Product 12: B-0006",
+						"value": "c962"
 					},
 					{
-						"label" : "Oswald",
-						"value" : "c961"
+						"label": "Product 12: C-1002",
+						"value": "c963"
 					},
 					{
-						"label" : "Product 12: B-0006",
-						"value" : "c962"
+						"label": "Product 12: 6000-D",
+						"value": "c964"
 					},
 					{
-						"label" : "Product 12: C-1002",
-						"value" : "c963"
+						"label": "Lumi",
+						"value": "c970"
 					},
 					{
-						"label" : "Product 12: 6000-D",
-						"value" : "c964"
+						"label": "Rose",
+						"value": "c971"
 					},
 					{
-						"label" : "Lumi",
-						"value" : "c970"
+						"label": "Jien",
+						"value": "c973"
 					},
 					{
-						"label" : "Rose",
-						"value" : "c971"
+						"label": "Mass Produced Melee",
+						"value": "c974"
 					},
 					{
-						"label" : "Jien",
-						"value" : "c973"
+						"label": "Mass Produced Melee 2",
+						"value": "c974_01"
 					},
 					{
-						"label" : "Mass Produced Melee",
-						"value" : "c974"
+						"label": "Timi",
+						"value": "c975"
 					},
 					{
-						"label" : "Mass Produced Melee 2",
-						"value" : "c974_01"
+						"label": "T.Rony",
+						"value": "c976"
 					},
 					{
-						"label" : "Timi",
-						"value" : "c975"
+						"label": "Kilo",
+						"value": "c977"
 					},
 					{
-						"label" : "T.Rony",
-						"value" : "c976"
+						"label": "Abe",
+						"value": "c979"
 					},
 					{
-						"label" : "Kilo",
-						"value" : "c977"
+						"label": "Hansel",
+						"value": "c980"
 					},
 					{
-						"label" : "Abe",
-						"value" : "c979"
+						"label": "Gretel",
+						"value": "c981"
 					},
 					{
-						"label" : "Hansel",
-						"value" : "c980"
+						"label": "Red Shoes",
+						"value": "c982"
 					},
 					{
-						"label" : "Gretel",
-						"value" : "c981"
+						"label": "Nadia",
+						"value": "c983"
 					},
 					{
-						"label" : "Red Shoes",
-						"value" : "c982"
+						"label": "Yuni",
+						"value": "c985"
 					},
 					{
-						"label" : "Nadia",
-						"value" : "c983"
+						"label": "Chloe - Village Guardian",
+						"value": "c988"
 					},
 					{
-						"label" : "Yuni",
-						"value" : "c985"
+						"label": "Rapi",
+						"value": "c989"
 					},
 					{
-						"label" : "Chloe - Village Guardian",
-						"value" : "c988"
+						"label": "Rapi",
+						"value": "c990"
 					},
 					{
-						"label" : "Rapi",
-						"value" : "c989"
+						"label": "D.E.E.P",
+						"value": "c991"
 					},
 					{
-						"label" : "Rapi",
-						"value" : "c990"
+						"label": "Rapi",
+						"value": "c992"
 					},
 					{
-						"label" : "D.E.E.P",
-						"value" : "c991"
+						"label": "Mecha Shifty",
+						"value": "c993"
 					},
 					{
-						"label" : "Rapi",
-						"value" : "c992"
+						"label": "Rapi",
+						"value": "c994"
 					},
 					{
-						"label" : "Mecha Shifty",
-						"value" : "c993"
+						"label": "Leviathan",
+						"value": "c996"
 					},
 					{
-						"label" : "Rapi",
-						"value" : "c994"
+						"label": "Hermin",
+						"value": "c998"
 					},
 					{
-						"label" : "Leviathan",
-						"value" : "c996"
+						"label": "Nayuta",
+						"value": "c9008"
 					}
 				],
 				"order" : 100,
@@ -1892,7 +2028,7 @@
 	"tags" : [ "Anime" ],
 	"title" : "Nikke Live2D",
 	"type" : "Web",
-	"version" : 1,
+	"version" : 2,
 	"visibility" : "public",
 	"workshopid" : "3452830381",
 	"workshopurl" : "steam://url/CommunityFilePage/3452830381"
